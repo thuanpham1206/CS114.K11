@@ -1,0 +1,36 @@
+​Nguy cơ tấn công mạng vào ngân hàng ngày càng tăng
+
+TTO - Xu hướng sử dụng dịch vụ ngân hàng di động ngày càng tăng của người dùng đã đẩy các cơ sở hạ tầng của ngân hàng vào nguy cơ bị tấn công mạng nhiều hơn.
+​Mã độc trộm tài khoản ngân hàng trên di động
+​Trojan ngân hàng tấn công 318.000 người dùng di động
+Bảo vệ an toàn tài khoản ngân hàng di động
+
+Ngày càng có nhiều khách hàng đóng vai trò quan trọng trong các sự cố an ninh, 25% các tổ chức tài chính cho biết một số các mối đe dọa mà họ phải đối mặt trong năm 2016 là được xác định và báo cáo từ các khách hàng.
+
+Nỗi lo từ người dùng bất cẩn
+
+Theo nghiên cứu về nguy cơ bảo mật cho các tổ chức ngân hàng của Kaspersky và B2B International, các rủi ro mới nổi có liên quan đến giao dịch ngân hàng di động là một xu hướng có thể đặt các ngân hàng vào các mối đe dọa mạng mới.
+
+Ngân hàng ít quan tâm bảo mật ATM
+
+Kết quả nghiên cứu của Kaspersky Lab cho thấy các ngân hàng quan tâm tương đối thấp về các tổn thất tài chính do các cuộc tấn công máy ATM, mặc dù loại hình tấn công này rất dễ gây tổn hại. Chỉ có 19% ngân hàng quan tâm đến các cuộc tấn công vào máy ATM và các máy rút tiền. Trong khi đó, tỷ lệ phần mềm độc hại nhằm vào cơ sở hạ tầng này của ngân hàng ngày càng cao (năm 2016 ghi nhận các mã độc ATM tăng lên 20% so với năm 2015).
+
+Cụ thể, 42% các ngân hàng dự đoán phần lớn khách hàng của họ sẽ sử dụng dịch vụ ngân hàng di động trong vòng ba năm tới, nhưng họ cũng thừa nhận là khách hàng của mình quá bất cẩn trong các hành vi trực tuyến.
+
+Hầu hết các ngân hàng được khảo sát đều thừa nhận (46%) khách hàng của họ thường xuyên bị tấn công bởi lừa đảo, 70% ngân hàng cũng báo cáo các sự cố về gian lận tài chính dẫn đến mất tiền.
+
+Bên cạnh những thủ thuật lừa đảo và công cụ nhắm vào khách hàng, các cuộc tấn công mục tiêu khác cũng là mối quan ngại rất lớn của các ngân hàng. Thực tế đang cho thấy các phương pháp tấn công mục tiêu ngày càng trở nên phổ biến hơn với những nền tảng mã mộc được sử dụng để làm hại các tổ chức tài chính.
+
+Nỗ lực của ngân hàng vẫn chưa đủ
+
+Những cuộc tấn công phi kĩ thuật và tấn công lừa đảo vào khách hàng đã khiến các ngân hàng phải đánh giá lại những nỗ lực của họ trong lĩnh vực này. 61% ngân hàng được hỏi cho biết việc nâng cao tính bảo mật của các ứng dụng và trang web mà khách hàng của họ sử dụng là một trong những ưu tiên bảo mật chính, theo sau là việc thực hiện xác thực phức tạp hơn và xác minh thông tin đăng nhập (52%).
+
+64% các ngân hàng thừa nhận họ sẽ đầu tư vào việc nâng cao bảo mật CNTT bất kể lợi tức đầu tư, để đáp ứng nhu cầu ngày càng tăng của các cơ quan quản lý nhà nước, ban quản lý cấp cao và khách hàng.
+
+Mặc dù các ngân hàng đã đặt không ít nỗ lực và tiền của trong phạm vi của mình để chống lại các mối đe dọa mạng đã và chưa biết đến, việc bảo vệ cơ sở hạ tầng CNTT hiện có, từ ATM và các điểm giao dịch truyền thống đến chuyên dụng ngày càng trở nên khó khăn hơn.
+
+Nền tảng các mối đe dọa rộng lớn và luôn thay đổi, cùng với những thách thức trong việc cải thiện thói quen bảo mật của khách hàng, đã cung cấp cho những kẻ gian nhiều lỗ hổng để khai thác hơn.
+
+Veniamin Levtsov, phó giám đốc bộ phận kinh doanh của Kaspersky Lab, chia sẻ: “Đấu tranh chống lại các mối đe dọa đang thay đổi liên tục nhắm đến cơ sở hạ tầng CNTT và tài khoản khách hàng là một thách thức hàng ngày đối với các công ty tài chính.
+
+Để đưa ra những phản hồi hiệu quả kịp thời, bảo vệ tất cả các điểm dễ bị xâm nhập, đòi hỏi ngành dịch vụ tài chính cần phải thiết lập sự bảo vệ tăng cường chống tấn công mục tiêu, xiết chặt bảo mật chống gian lận đa kênh, và nắm được các thông tin trong việc phát triển các mối đe dọa.”

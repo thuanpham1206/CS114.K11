@@ -1,0 +1,20 @@
+Xe điện Scooter của Xiaomi có thể bị hack và tăng tốc từ xa
+
+TTO - Một lỗ hổng bảo mật trên xe điện Scooter của hãng Xiaomi có thể cho phép hacker điều khiển từ xa việc tăng tốc, phanh xe… gây nguy hiểm cho tính mạng của người dùng.
+Xe điện VinFast bluetooth kết nối chen vào thị trường 90.000 tỉ
+Doanh số bán xe điện toàn cầu tăng hơn 50% trong năm 2017
+Thủ tướng đồng ý thí điểm xe điện 4 bánh
+Xe điện Scooter của Xiaomi có thể bị hack và tăng tốc từ xa - Ảnh 1.
+Xe điện Scooter của Xiaomi đang bị lỗ hổng bảo mật có thể gây nguy hiểm tính mạng người dùng. - Ảnh: THE HACKER NEWS
+
+Một công ty chuyên nghiên cứu về bảo mật di động có tên Zimperium vừa công bố một lỗ hổng bảo mật chết người trên mẫu xe điện Scooter của hãng Xiaomi.
+
+Trong một video do Zimperium công bố, họ cho thấy đã vô hiệu hóa thành công tính năng chống trộm của xe. Đồng thời họ có thể ra lệnh cho chiếc xe đột ngột tăng tốc hoặc dừng bất thình lình bất chấp sự ngạc nhiên của người đang điều khiển.
+
+Mẫu xe e-Scooter của Xiaomi bị phát hiện lỗ hổng có tên là Mijia M365. Zimperium cho biết họ có thể thực hiện thành công việc xâm nhập trong bán kính lên tới 100 mét.
+
+Trong khi đó, theo trang tin CNet, xe e-Scooter được sử dụng khá phổ biến tại Mỹ vì nó gọn nhẹ, có thể luồn lách qua các không gian hẹp, đặc biệt khi tắc đường. Riêng mẫu xe của Xiaomi đang được nhiều công ty cho thuê xe e-Scooter tại Mỹ sử dụng.
+
+Zimperium cho rằng vấn đề nằm ở quy trình xác thực mật khẩu của xe thông qua kết nối bluetooth. 
+
+Họ cho biết: "Chúng tôi phát hiện quy trình sử dụng mật khẩu trong xác thực được thiết lập không đúng cách. Điều này khiến tất cả các lệnh điều khiển có thể được thực hiện mà không cần tới mật khẩu. Mật khẩu chỉ được xác thực trên ứng dụng nhưng bản thân chiếc xe e-Scooter lại không theo dõi tình trạng xác thực này".

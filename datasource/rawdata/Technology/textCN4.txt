@@ -1,0 +1,23 @@
+Google phát triển công nghệ đa đám mây để bắt kịp Amazon và Microsoft
+
+TTO – Nỗ lực để đuổi kịp Amazon và Microsoft, Google chuyển mình, tái định hướng chiến lược trọng tâm sang phát triển công nghệ điện toán đám mây.
+
+Hướng phát triển công nghệ đám mây trở thành một phần đặc biệt quan trọng trong chiến lược phát triển mới của Google. Công nghệ này sẽ điều hành các nhiệm vụ điện toán của các doanh nghiệp và chính phủ tại trung tâm dữ liệu của Google.
+
+Tuy nhiên, Google chỉ mới tập trung nhiều hơn cho công nghệ đám mây gần đây. Thị phần của Google trong mảng công nghệ này chỉ chiếm 3%, thấp hơn rất nhiều so với 52% thị phần của Amazon, theo công ty nghiên cứu công nghệ Gartner.
+
+Ngày 9-4, Google đã ra mắt phần mềm Anthos. Đây là phần mềm cho phép người dùng chuyển lượng công việc trong máy tính của họ qua lại giữa nền tảng đám mây và trung tâm dữ liệu của Google, cũng như với các nền tảng đám mây của Amazon và Microsoft.
+
+Quyết định thay đổi này được đánh giá là sự thừa nhận của Google, rằng họ không còn ở trung tâm của thế giới công nghệ điện tử nữa, dù Google vẫn đang chiếm lĩnh mảng internet người dùng (consumer internet).
+
+Theo Financial Times, Google đưa ra chiến lược "đa đám mây" (multi-cloud) nhằm hợp tác cùng các đối thủ cạnh tranh của mình, thay vì cố gắng tranh đua với họ.
+
+Cũng trong hội nghị thường niên ngày 9-4, Google đã công bố quan hệ hợp tác chiến lược với hai nhà cung cấp thiết bị công nghệ thông tin (IT) lão làng là Cisco System và VMware.
+
+Thomas Kurian, người đứng đầu Google Cloud, cho biết Google đang nỗ lực hướng sự phát triển vào sâu trong lĩnh vực IT.
+
+"Chúng tôi cũng muốn mở rộng nền tảng của mình để các đối tác có thể cùng tham gia công nghệ này", ông Kurian nói.
+
+Để cố gắng đuổi kịp các công ty đầu ngành công nghệ đám mây, Google hi vọng có thể kiếm lợi nhuận từ một trong những xu hướng phát triển nóng nhất của trung tâm xử lý dữ liệu. Đó là phát triển các "thùng chứa dữ liệu số" theo hướng giúp đơn giản hóa việc phát triển và quản lý phần mềm cho các doanh nghiệp.
+
+Kĩ thuật này đòi hỏi chuyển đổi hệ thống phát triển phần mềm cả gói thành nhiều phần nhỏ liên kết với nhau. Nhiều người cho rằng Google đang đi đúng hướng và có thể tạo ra một bước đột phá trong lĩnh vực phát triển phần mềm.

@@ -1,0 +1,32 @@
+3 lý do để không cập nhật phiên bản iOS 12 beta vội
+
+TTO – Không ai ngăn cản bạn tìm một chút niềm vui với phiên bản cập nhật mới, nhưng hãy nhớ lí do tại sao họ gọi đây là phiên bản beta.
+iOS 12 sẽ giúp người dùng quản lý mật khẩu dễ hơn
+iOS 12 cho phép đăng ký thêm người khác dùng Face ID
+Tất tật những điểm mới cần biết về iOS 12
+Theo Cnet, phiên bản iOS 12 beta vừa chính thức được ra mắt và rất nhiều người trong số chúng ta nóng lòng muốn tải ngay về thiết bị. Tuy nhiên, vì là bản beta nên những tính năng mới trong đó sẽ vẫn tiếp tục thay đổi, các ứng dụng sẽ có nguy cơ bị lỗi. Hơn nữa, bạn còn phải mất thêm thời gian để thực hiện đơn đăng ký sử dụng.
+
+Bạn nên chờ đợi bản iOS 12 chính thức vì 3 lý do thiết thực nhất sau đây:
+
+Lỗi
+
+Theo phóng viên Jason Cipriani, mặc dù đây là bản iOS beta mượt mà nhất mà anh từng cài đặt nhưng cũng đã gặp một số lỗi đồ họa, đa phần với những ứng dụng chưa được tối ưu cho iPhone X. Dung lượng pin vẫn chưa bị ảnh hưởng, và thỉnh thoảng anh phải dùng đến tính năng "bắt buộc dừng ứng dụng" (app force close) vài lần để tiếp tục sử dụng.
+
+Ngoài ra anh còn trải qua sự cố thiết bị tự động reset nhiều lần nếu như thao tác chuyển màn hình từ ứng dụng này sang ứng dụng khác quá nhanh.
+
+Không phải ai cũng cảm thấy hài lòng với những trường hợp nói trên. Dĩ nhiên, số lượng lỗi ở mỗi bản cập nhật beta không giống nhau. Chưa rõ nếu như phiên bản beta tiếp theo liệu sẽ làm thiết bị mau chóng "cạn kiệt" pin hay không.
+
+Không phải tất cả tính năng đều sẵn sàng
+
+Mặc dù Apple đã giới thiệu tính năng gọi nhóm FaceTime trong iOS 12, chẳng có nghĩa bạn sẽ trải nghiệm được tính năng đó vào lúc này. Bạn không thể gọi cho những ai đang sử dụng phiên bản iOS 11.
+
+3 lý do để không cập nhật phiên bản iOS 12 beta vội - Ảnh 1.
+Tính năng gọi nhóm bằng FaceTime. Ảnh: AppAdvice
+
+Tiếp đó, hãy nói đến tính năng Siri Shortcus. Hiện tại, tính năng vẫn còn hơi mông lung. Bạn khó tìm thấy hướng dẫn và chẳng thể áp dụng nhiều thao tác thực tế, chưa kể đến ứng dụng chính thức vẫn chưa hề xuất hiện.
+
+Các tính năng mà Apple công bố trong WWDC 2018 và những gì đang xuất hiện trong phiên bản cập nhật beta hoàn toàn khác biệt nhau. Rõ ràng, tính năng gọi nhóm FaceTime và Siri Shortcuts cho bạn thấy chúng đang ở trong giai đoạn nào vào thời điểm hiện tại, nhưng hãy nhớ rằng cả hai vẫn đang tiếp tục được phát triển.
+
+Trường hợp xấu nhất
+
+Jason đưa ra lý do này bởi vì anh đã thật sự trải qua: phiên bản beta khiến thiết bị reset cài đặt gốc (factory reset) và làm mất toàn bộ dữ liệu. Sau khi cài đặt phiên bản beta này, chiếc iPhone SE của anh đã biến thành một cục gạch theo đúng nghĩa đen. Máy chỉ hiển thị màn hình trắng và logo Apple, và anh đã mất nhiều giờ đồng hồ để khiến máy hoạt động trở lại.

@@ -1,0 +1,17 @@
+Cách kiểm tra Nokia mình dùng có gửi dữ liệu về Trung Quốc
+
+TTO - Về cáo buộc điện thoại Nokia 7 Plus gửi thông tin người dùng về Trung Quốc, HMD Global - chủ sở hữu thương hiệu Nokia - cho rằng đó là do lỗi phần mềm và họ đã sửa lỗi.
+
+Trong thông tin gửi đến truyền thông ngày 26-3, HMD Global cho biết: “Chúng tôi đã xem xét rất kỹ lưỡng vụ việc này và xác nhận rằng không có bất cứ thông tin nhận dạng cá nhân nào bị rò rỉ với bên thứ ba”.
+
+Cụ thể, sau khi phân tích, hãng nhận thấy rằng khi khách hàng kích hoạt thiết bị được sản xuất cho thị trường Trung Quốc ở một quốc gia khác đã xảy ra nhầm lẫn trong việc chuyển dữ liệu về máy chủ của một bên thứ ba.
+
+“Bởi chính lỗi này mà các dữ liệu kích hoạt thiết bị đã bị gửi nhầm đến máy chủ của bên thứ ba. Tuy nhiên, dữ liệu này không được xử lý và không có thông tin cá nhân nào được xác định dựa trên thông tin này. Chúng tôi muốn nhấn mạnh rằng không có bất cứ thông tin nhận dạng cá nhân nào của người dùng bị rò rỉ với bên thứ 3”, đại diện HMD cho biết.
+
+HMD Global cũng thông tin rằng lỗi nêu trên đã được sửa vào tháng 2 năm nay bằng cách chuyển đổi đăng ký sang đúng quốc gia thông qua bản cập nhật phần mềm. “Tất cả các thiết bị bị ảnh hưởng đã được cập nhật bản chỉnh sửa và gần như tất cả các thiết bị đều đã được cài đặt”, HMD thông tin.
+
+Trước đó, đài truyền hình NRK (Na Uy) đưa tin cho biết điện thoại thông minh Nokia 7 Plus đã gửi thông tin người dùng không được mã hóa sang máy chủ ở Trung Quốc. Các dữ liệu bao gồm: thông tin GPS, số serial thiết bị, thậm chí cả số điện thoại của người dùng.
+
+Trước một số một số suy đoán về việc các điện thoại Nokia khác cũng chia sẻ dữ liệu tương tự với các máy chủ của bên thứ ba. Đại diện HMD cho rằng đây chỉ là suy đoán không có cơ cơ sở và không có bất cứ điện thoại Nokia nào khác bị ảnh hưởng. 
+
+“Tất cả dữ liệu thiết bị của điện thoại Nokia không thuộc Trung Quốc sẽ được lưu trữ tại các máy chủ của HMD Global đặt tại Singapore do Amazon Web Services cung cấp”, Công ty này khẳng định.

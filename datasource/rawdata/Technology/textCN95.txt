@@ -1,0 +1,46 @@
+2 triệu người dùng đã nhiễm mã độc từ Google Play
+
+TTO - Theo hãng bảo mật Check Point, mã độc được giấu trong hơn 40 ứng dụng hướng dẫn giả mạo của các trò chơi phổ biến như Pokemon GO và FIFA Mobile.
+Ứng dụng giả mạo game Super Mario ăn cắp thông tin thẻ tín dụng
+2016: Pokemon Go khuấy đảo cộng đồng mạng Việt Nam
+​Mã độc trộm tài khoản ngân hàng trên di động
+Khoảng 2 triệu người dùng Android đã bị lây nhiễm mã độc FalseGuide. - Ảnh: The Hacker News
+Khoảng 2 triệu người dùng Android đã bị lây nhiễm mã độc FalseGuide. - Ảnh: The Hacker News
+
+Dưới cái tên FalseGuide - hướng dẫn sử dụng trò chơi - ứng dụng đã lừa được khoảng 2 triệu người dùng Android tải về từ kho ứng dụng chính thức Google Play kể từ tháng 11-2016.
+
+Chiếm quyền quản trị
+
+Theo các nhà nghiên cứu của Check Point, FalseGuide thiết lập một hệ thống botnet gồm các thiết bị nạn nhân ngay sau khi lây nhiễm. Để phòng tránh bị gỡ bỏ khỏi hệ thống, FalseGuide yêu cầu quyền quản trị ngay khi cài đặt.
+
+Không chỉ trục lợi từ các quảng cáo trái phép, mã độc còn có thể giúp kẻ tấn công cài đặt thêm các mã độc nguy hiểm hơn như: chiếm quyền quản trị thiết bị, thực hiện tấn công từ chối dịch vụ (DDoS), xâm nhập mạng riêng…
+ 
+Sau đó nó tự đăng ký chính mình lên nền tảng Firebase Cloud Messaging cho phép người phát triển ứng dụng có thể gửi tin nhắn và thông báo đến nó. Từ đó, kẻ tấn công có thể gửi tin nhắn có chứa các đường dẫn đến mã độc để cài đặt thêm các ứng dụng hay mã độc khác vào thiết bị. Nó cũng cho phép kẻ tấn công cho hiển thị các quảng cáo lên thiết bị để kiếm lợi.
+
+Theo Check Point, không chỉ trục lợi từ các quảng cáo trái phép, mã độc còn có thể giúp kẻ tấn công cài đặt thêm các mã độc nguy hiểm hơn như: chiếm quyền quản trị thiết bị, thực hiện tấn công từ chối dịch vụ (DDoS), xâm nhập mạng riêng…
+
+Check Point cũng cho biết đã báo cáo với Google về mã độc trên và Google cũng đã âm thầm gỡ bỏ FalseGuide ra khỏi kho ứng dụng của mình. Tuy nhiên những người dùng đã vô tình tải FalseGuide về thiết bị vẫn đang “mở rộng cửa” cho kẻ tấn công chiếm “nhà” của mình (có thể thực tế nhiều người đã bị “chiếm” rồi nếu họ nằm trong số 2 triệu người dùng nêu trên).
+
+Một ứng dụng hướng dẫn game chứa mã độc trên Google Play. - Ảnh: The Hacker News
+Một ứng dụng hướng dẫn game chứa mã độc trên Google Play. - Ảnh: The Hacker News
+ 
+
+Check Point cũng công bố danh sách các trò chơi đã bị FalseGuide giả mạo hướng dẫn để người dùng tự đối chiếu với trường hợp của mình. Đó là các game: FIFA Mobile, Criminal Case, Super Mario, Subway Surfers, Pokemon Go, Lego Nexo Knights, Lego City My City, Ninjago Tournament, Rolling Sky, Amaz3ing Spider-Man, Drift Zone 2, Dream League Soccer…
+
+Làm thế nào để bảo vệ mình?
+
+Theo khuyến cáo của các chuyên gia bảo mật Check Point, người dùng hãy:
+
+- Luôn tải ứng dụng từ các nhà phát triển uy tín và đã được cộng đồng công nhận, cũng như các kho ứng dụng chính thống như: Google play Store hay Apple App Store.
+
+- Luôn xem xét kỹ yêu cầu của ứng dụng trước khi cài đặt. Ứng dụng nào yêu cầu quyền truy cập vượt ngoài công dụng của ứng dụng đó thì không nên cài đặt.
+
+- Luôn có một phần mềm chống virus tốt trên thiết bị của bạn để tìm kiếm và ngăn chặn kịp thời các mã độc.
+
+- Không tải ứng dụng từ các nguồn cung cấp thứ ba (mặc dù trong trường hợp này mã độc được tích hợp trong ứng dụng trên kho chính thống Google Play nhưng thực tế hầu hết ứng dụng không an toàn đều đến từ các kho ứng dụng thứ ba).
+
+- Không nên kết nối vào các điểm truy cập WiFi không rõ ràng và không an toàn. Hãy tắt chế độ WiFi khi bạn không có nhu cầu sử dụng.
+
+- Hãy luôn cẩn trọng với những ứng dụng được cấp phát quyền quản trị. Đây là quyền truy cập rất mạnh mẽ có thể cho phép ứng dụng kiểm soát toàn bộ thiết bị của bạn.
+
+- Tuyệt đối không truy cập vào các đường dẫn được gửi qua tin nhắn SMS hoặc MMS, thậm chí ngay cả các email trông có vẻ hợp pháp. Bạn hãy chịu khó truy cập trực tiếp vào website chính gốc để tìm hiểu câu chuyện thay vì kết nối qua một cách thức trung gian tiềm tàng ẩn họa.

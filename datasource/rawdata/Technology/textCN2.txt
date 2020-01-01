@@ -1,0 +1,20 @@
+Phát hiện hệ thống do thám người dùng của tội phạm mạng
+TTO - Các nhà nghiên cứu tại Kaspersky Lab vừa phát hiện một nền tảng do thám mạng với kỹ thuật tinh vi, đã hoạt động ít nhất là từ năm 2013 đến nay.
+
+Nền tảng này được các nhà nghiên cứu đặt tên là TajMahal, là một nền tảng tấn công có chủ đích (APT) được thiết kế cho hoạt động do thám mạng trên phạm vi rộng. 
+
+Phân tích mã độc cho thấy nền tảng này đã được phát triển và sử dụng trong ít nhất 5 năm qua, với những mẫu ban đầu từ tháng 4-2013 và mẫu gần nhất là vào tháng 8-2018. 
+
+Cái tên TajMahal xuất phát từ tên tập tin được sử dụng để truyền dữ liệu đánh cắp được ra bên ngoài.
+
+Nền tảng mã độc TajMahal được cho là bao gồm hai gói sản phẩm chính, với tên gọi tương ứng là "Tokyo" và "Yokohama".
+
+Tokyo là gói sản phẩm nhỏ hơn, chứa khoảng 3 môđun. Nó chứa chức năng cửa hậu (backdoor) chính, và thường xuyên kết nối với máy chủ chỉ huy điều khiển (command and control server). Tokyo sử dụng PowerShell và ẩn mình trong mạng, kể cả sau khi quá trình xâm nhập đã chuyển sang giai đoạn thứ hai.
+
+Giai đoạn hai là gói sản phẩm Yokohama: một nền tảng gián điệp mạng được trang bị đầy đủ.
+
+Yokohama có gần 80 môđun mã độc, bao gồm các môđun tải tập tin, đồng bộ, truyền thông chỉ huy và điều khiển, ghi âm, ghi nhận thông tin phím gõ (keylogger), chụp ảnh màn hình và webcam, công cụ đánh cắp tài liệu và khóa mã hóa.
+
+TajMahal còn có thể thu thập cookie của trình duyệt, danh mục sao lưu dữ liệu của các thiết bị Apple, đánh cắp dữ liệu từ một đĩa CD được ghi (burnt) bởi nạn nhân cũng như là các tài liệu trong hàng đợi máy in. Nó cũng có thể yêu cầu lấy cắp một tập tin nhất định từng nhìn thấy trước đây trên một thẻ nhớ USB, và tập tin đó sẽ bị đánh cắp trong lần tiếp theo khi thẻ nhớ USB được cắm vào máy tính.
+
+"Nền tảng TajMahal là một phát hiện rất thú vị. Mức độ tinh vi về mặt kỹ thuật vượt xa so với hình dung và nền tảng này được trang bị những chức năng chưa từng thấy trong một công cụ tấn công có chủ đích", ông Alexey Shulmin, chuyên gia trưởng về phân tích mã độc của Kaspersky Lab, cho biết.

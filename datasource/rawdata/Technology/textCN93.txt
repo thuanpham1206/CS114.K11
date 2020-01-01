@@ -1,0 +1,25 @@
+Công cụ giải cứu dữ liệu bị WannaCry chiếm giữ
+
+TTO - Chuyên gia phân tích mã độc tạo ra một công cụ cứu dữ liệu bị mã độc WannaCry mã hóa tống tiền. Mọi người có thể tải dùng miễn phí.
+​Xuất hiện mã độc nguy hiểm gấp bội WannaCry
+Mã độc tống tiền Wanna.Cry nguy hiểm cỡ nào?
+​Công cụ kiểm tra mã độc Wanna Cry
+WannaCry thật sự là cơn ác mộng cho các hệ thống máy tính doanh nghiệp, và cơn ác mộng này chưa dừng lại - Ảnh minh họa: NewsBTC
+WannaCry thật sự là cơn ác mộng cho các hệ thống máy tính doanh nghiệp, và cơn ác mộng này chưa dừng lại - Ảnh minh họa: NewsBTC
+"Đại dịch" WannaCry đã có thêm phương thuốc chữa trị, đó là công cụ giải mã dữ liệu bị mã hóa được phát triển bởi nhà phân tích mã độc người Pháp Adrien Guinet từ Hãng Quarkslab.
+
+Adrien Guinet đã tìm ra một cách thức lấy các chìa khóa giải mã mã hóa dữ liệu bởi WannaCry, đã thử nghiệm trên các phiên bản hệ điều hành Windows XP, Windows 7 (x86), Windows Vista, Windows Server 2003 / 2008.
+
+Khi mã độc WannaCry thâm nhập vào máy tính, nó tạo ra hai khóa gồm một khóa công khai để mã hóa (bắt cóc) dữ liệu, khóa bí mật còn lại dùng để giải mã. Tuy nhiên, để ngăn nạn nhân dùng khóa bí mật để tự giải mã, WannaCry xóa khóa bí mật khỏi máy tính nạn nhân. Nhưng Adrien Guinet tìm ra "Gót chân Achilles" thứ hai của WannaCry giúp anh "truy vết" được khóa bí mật đó, tạo ra công cụ tự động cho người dùng phổ thông cứu dữ liệu.
+
+Công cụ WannaKey dựa trên khám phá của Adrien Guinet, tính toán các con số để tạo ra khóa giải mã. Bản cập nhật WannaKey 2.0 đã được đưa lên thư viện công cụ nguồn mở GitHub, tải miễn phí tại đây.
+
+Khi bị WannaCry lây nhiễm, không khởi động lại máy tính và chạy bất kỳ ứng dụng nào trước khi dùng WannaKey
+ 
+* Lưu ý: WannaKey chỉ cứu được dữ liệu bị WannaCry mã hóa trên máy tính chưa khởi động lại khi bị lây nhiễm. Bên cạnh đó, máy tính cũng chưa bị các ứng dụng, tiến trình khác chạy đè lên bộ nhớ khiến WannaKey không thể trích xuất dữ liệu từ đây.
+
+Từ khám phá của Adrien Guinet, một "hiệp sĩ" khác tạo ra công cụ giải mã tên WanaKiwi của Benjamin Delpy.
+
+WanaKiwi đơn giản hóa toàn bộ tiến trình truy xuất khóa giải mã của WanaCry, giải cứu dữ liệu. Công cụ cũng được đưa lên GitHub để cộng đồng cùng sử dụng, được các chuyên gia khác như Matt Suiche từ hãng bảo mật Comae Technologies hỗ trợ thử nghiệm trên Windows XP, Windows 7, Windows Vista, Windows Server 2003 và 2008.
+
+Người dùng phổ thông cần được trợ giúp khi xử lý với WanaKiwi vì nó điều khiển qua câu lệnh (cmd) trong Windows. 

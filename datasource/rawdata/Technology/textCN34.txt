@@ -1,0 +1,39 @@
+​Hacker thiện chí Ấn Độ, "bụt chùa nhà không thiêng"?
+
+TTO - Trong khi được các tập đoàn công nghệ thế giới tưởng thưởng hàng trăm triệu USD vì giúp phát hiện sơ hở, các hacker thiện chí tại Ấn Độ lại bị đối xử thờ ơ trong nước.
+​
+Theo Hãng tin AFP, đã thành "chuyện thường ngày ở huyện" tại Ấn Độ khi các hacker hoạt động với mục đích thiện chí không được hoan nghênh trong nước, trong khi lại được chào đón, trọng thưởng tại nước ngoài vì những đóng góp quan trọng trong lĩnh vực bảo mật mạng.
+
+Thờ ơ và ngờ vực
+
+Câu chuyện của anh Kanishk Sajnani, một trong những hacker thiện chí tại Ấn Độ, là một ví dụ. Khi anh liên lạc với một hãng bay lớn của Ấn Độ thông báo về lỗi bảo mật website của họ khi anh có thể xâm nhập và đặt vé đi khắp thế giới không tốn xu nào, anh không nhận được gì, thậm chí là lời cảm ơn.
+
+Ấn Độ hiện là quốc gia sản sinh nhiều hacker thiện chí nhất thế giới. Đây là những người chuyên tìm cách bẻ khóa thử các chương trình máy tính để thông báo, chứ không phải lợi dụng những lỗ hổng đó, cho phía đơn vị chủ quản sớm khắc phục.
+
+Trong nửa đầu năm 2016 Tập đoàn công nghệ Facebook là công ty trao tặng tiền thưởng cho các chuyên gia bảo mật của Ấn Độ nhiều hơn cả so với hacker các nước khác.
+
+Số lỗ hổng bảo mật do các hacker thiện chí của Ấn Độ phát hiện đã vượt xa thành tích của một nhóm hacker khác cũng có chung mục đích hoạt động là HackerOne với khoảng 100.000 thành viên.
+
+Chỉ riêng một hacker ẩn danh của Ấn Độ có nickname là "Geekboy" đã phát hiện hơn 700 lỗ hổng bảo mật cho các tập đoàn như Yahoo, Uber và Rockstar Games.
+
+Hầu hết hacker thiện chí đều là những bạn trẻ sành công nghệ. Họ là các kỹ sư phần mềm đang hoạt động trong đội ngũ nhân sự ngành IT có trị giá khoảng 154 tỉ USD của Ấn Độ.
+
+Dẫu vậy, vẫn có một thực tế "tréo ngoe" đang diễn ra tại Ấn Độ. Trong lúc các tập đoàn công nghệ cũng như các cơ quan đa quốc gia ngày càng trở nên phụ thuộc vào các tài năng bảo mật đẳng cấp thế giới của Ấn Độ, vẫn còn rất ít doanh nghiệp nước này có chương trình tưởng thưởng xứng đáng với những người giúp họ phát hiện sơ hở bảo mật.
+
+Theo giới quan sát lĩnh vực công nghệ thông tin tại Ấn Độ và theo chính giới hacker trong cuộc, những thông tin do nhóm hacker thiện chí cung cấp cho doanh nghiệp Ấn Độ đều bị đối xử với một thái độ thờ ơ hoặc ngờ vực.
+
+Anh Anand Prakash, 23 tuổi, một chuyên gia bảo mật mạng từng được tặng thưởng 350.000 USD nhờ phát hiện lỗi bảo mật, cho biết Tập đoàn Facebook gần như luôn phản hồi ngay lập tức khi anh thông báo với họ sơ hở bảo mật cho phép anh có thể post thông tin từ tài khoản của một người khác.
+
+Chuyên gia này chia sẻ: "Các công ty không thừa nhận vấn đề đúng mức, hoặc không bày tỏ một thái độ cảm ơn bạn sau khi được trợ giúp là chuyện rất bực mình".
+
+Buộc phải thay đổi?
+
+Dù vậy giới quan sát cũng nhận thấy đã có ít nhiều chuyển biến về vấn đề này tại Ấn Độ thời gian qua.
+
+Năm 2015 Hãng taxi Ola, đối thủ của Uber, thành lập chương trình tưởng thưởng cho các hacker thiện chí mà họ gọi là hình thức tưởng thưởng "đầu tiên thuộc loại này" tại Ấn Độ sau khi nhóm hacker liên tiếp vạch ra giúp họ những lỗ hổng bảo mật trong ứng dụng gọi xe rất phổ biến của Ola.
+
+Tháng này ứng dụng Zomato, một phần mềm chỉ dẫn thông tin về thức ăn và nhà hàng hoạt động tại 23 quốc gia bị tấn công mạng khi một hacker đánh cắp được 17 triệu thông tin người dùng trong cơ sở dữ liệu được tuyên bố bảo mật kỹ càng của họ.
+
+Hacker có nickname "nclay" đe dọa bán các thông tin này trừ khi Zomato (được định giá khoảng vài trăm triệu USD) phải trao thưởng cho các hacker thiện chí thay vì chỉ cấp cho họ những tờ giấy chứng thực về độ tin cậy, trung thực.
+
+Sự việc xảy ra với Zomato khiến hacker thiện chí Prakash thêm phiền lòng. Chỉ mới hai năm trước, anh từng bẻ khóa cơ sở dữ liệu của Zomato và cảnh báo về lỗ hổng. Anh cho rằng nếu lúc đó họ chịu lắng nghe anh thì giờ đây mọi sự đã khác.

@@ -1,0 +1,23 @@
+Khẩn cấp theo dõi, ngăn chặn mã độc GandCrab 5.2 giả mạo Bộ Công an
+
+TTO - Trung tâm Ứng cứu khẩn cấp máy tính Việt Nam phát thông báo khẩn yêu cầu các cơ quan, tổ chức tài chính, doanh nghiệp... khẩn cấp theo dõi, ngăn chặn kết nối máy chủ điều khiển mã độc GandCrab 5.2 qua email giả mạo Bộ Công an.
+
+Trung tâm Ứng cứu khẩn cấp máy tính Việt Nam (Trung tâm VNCERT) vừa có công văn khẩn gửi đến các cơ quan, tổ chức tài chính, doanh nghiệp… trong cả nước thông báo về việc VNCERT vừa phát hiện chiến dịch phát tán mã độc GandCrab 5.2 vào Việt Nam qua email giả mạo Bộ Công an.
+
+Theo VNCERT, GandCrab 5.2 là phiên bản mới trong họ mã độc tống tiền GandCrab lan rộng trên toàn cầu trong hơn một năm qua.
+
+Qua theo dõi không gian mạng, Trung tâm VNCERT phát hiện từ giữa tháng 3-2019 đến nay đang có chiến dịch phát tán mã độc tống tiền GandCrab 5.2 vào Việt Nam và các nước Đông Nam Á.
+
+Tại Việt Nam, GandCrab 5.2 được phát tán thông qua thư điện tử giả mạo Bộ Công an Việt Nam với tiêu đề "Goi trong Cong an Nhan dan Viet Nam", có đính kèm tệp documents.rar.
+
+Khi người dùng giải nén và mở tệp tin đính kèm, mã độc sẽ được kích hoạt và toàn bộ dữ liệu người dùng bị mã hóa, đồng thời sinh ra môt tệp nhằm yêu cầu và hướng dẫn người dùng trả tiền chuộc từ 400 - 1.000 USD bằng cách thanh toán qua đồng tiền điện tử để giải mã dữ liệu.
+
+"Mã độc tống tiền GandCrab rất nguy hiểm, có thể đánh cắp thông tin và mã hóa toàn bộ dữ liệu trên máy bị nhiễm. Tin tặc khai thác và tấn công sẽ gây nhiều hậu quả nghiêm trọng khác" - ông Nguyễn Khắc Lịch, phó giám đốc Trung tâm VNCERT, nhấn mạnh.
+
+Trung tâm VNCERT yêu cầu lãnh đạo các đơn vị chỉ đạo các đơn vị thuộc phạm vi quản lý thực hiện khẩn cấp các việc sau để phòng ngừa, ngăn chặn việc tấn công của mã độc GandCrab 5.2 vào Việt Nam "theo dõi, ngăn chặn kết nối đến các máy chủ máy chủ điều khiển mã độc tống tiền GandCrab và cập nhật vào các hệ thống bảo vệ như: IDS/IPS, Firewall… theo các thông tin nhận dạng" - công văn của VNCERT nêu rõ.
+
+"Nếu phát hiện cần nhanh chóng cô lập vùng/máy đã phát hiện".
+
+Đồng thời, cần thông báo người sử dụng nâng cao cảnh giác, không mở và click vào các liên kết cũng như các tập tin đính kèm trong email có chứa các tập tin dạng .doc, .pdf, .zip, rar,… được gửi từ người lạ hoặc nếu email được gửi từ người quen nhưng cách đặt tiêu đề hoặc ngôn ngữ khác thường.
+
+Và cần thông báo cho bộ phận chuyên trách quản trị hệ thống hoặc đảm bảo an toàn thông tin khi gặp nghi ngờ.

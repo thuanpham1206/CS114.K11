@@ -1,0 +1,23 @@
+IoT có ảnh hưởng lớn đến hạ tầng khóa công khai
+
+TTO - Trong nghiên cứu mới về xu hướng hạ tầng khóa công khai (PKI) vừa công bố, Viện Ponemon đã khảo sát trên 1.500 chuyên gia bảo mật về công nghệ thông tin trên toàn thế giới và phần lớn cho rằng IoT là lĩnh vực phát triển nhanh nhất của PKI.
+
+Hạ tầng khóa công khai (PKI) từ lâu đã được sử dụng trong các thiết bị kết nối mạng để xác thực, ký kết và mã hóa số.
+
+Khảo sát cho thấy, trong khi 54% chuyên gia cho rằng điện toán đám mây là xu hướng quan trọng nhất thúc đẩy việc triển khai các ứng dụng có hỗ trợ PKI thì có gần 40% chuyên gia đánh giá IoT có ảnh hưởng quan trọng. 36% người được hỏi cho rằng các ứng dụng mới, bao gồm các thiết bị IoT, là lĩnh vực phát triển nhanh nhất của PKI.
+
+Kết quả này phù hợp với cách những người tham gia khảo sát nhìn nhận về cấu trúc IoT tổng thể.
+
+Báo cáo còn cho thấy, trong vòng hai năm tới, 43% thiết bị IoT sẽ nhận chứng chỉ kỹ thuật số để xác thực.
+
+Ngoài ra, 43% số người được hỏi cho biết họ mong đợi IoT sẽ được hỗ trợ bởi PKI, bao gồm cả các thành phần dựa trên điện toán đám mây và doanh nghiệp.
+
+PKI là chìa khóa cho tương lai
+
+Tất nhiên, việc sử dụng PKI của một tổ chức bao gồm nhiều lĩnh vực hơn là IoT. Nghiên cứu cho thấy PKI sẽ được ứng dụng để hỗ trợ trung bình hơn 8 lĩnh vực khác nhau trong doanh nghiệp, bao gồm chứng chỉ SSL, mạng riêng ảo (VPN), ứng dụng đám mây công cộng và cơ chế xác thực.
+
+Nghiên cứu cũng chỉ ra rằng chứng thực đa năng (59%) và an ninh vật lý (47%) là hai lĩnh vực được nhiều tổ chức sử dụng rộng rãi nhất để đảm bảo chứng thực PKI và chứng thực điện tử (CA).
+
+Đặc biệt, 36% số người được hỏi cho biết họ dùng module bảo mật phần cứng để quản lý khóa cá nhân, 30% người thì dùng thẻ thông minh cho chức năng này và 43% người thì thuê chuyên gia quản lý.
+
+Tiến sĩ Larry Ponemon (Help Net Security) phát biểu: "Các tổ chức nhạy bén đã xác định rằng việc triển khai IoT thành công sẽ dựa trên sự thiết lập chuẩn xác ngay từ ban đầu, và họ đang dựa vào PKI để xây dựng sự chuẩn xác đó. Nhìn chung, kết quả của cuộc khảo sát cho thấy công nghệ PKI đang được định vị tốt để phục vụ nhu cầu bảo mật của các tổ chức khi triển khai IoT."

@@ -1,0 +1,26 @@
+Apple chặn nốt ‘cửa cuối cùng’ để iPhone có thể bị bẻ khóa
+
+TTO - Trong một động thái được cho là phản ứng đối đầu của Apple với lực lượng hành pháp, công ty này cho biết sẽ tung ra phần mềm cho phép vô hiệu hóa luôn cửa bảo mật cuối cùng của iPhone.
+Tin tặc Triều Tiên vẫn dùng iPhone 4S và tấn công mạng?
+iOS 12 cho iPhone và iPad dự đoán có gì mới?
+iOS 12 sẽ cập nhật tính năng báo cáo thời gian sử dụng iPhone
+Apple chặn nốt ‘cửa cuối cùng’ để iPhone có thể bị bẻ khóa - Ảnh 1.
+Ảnh: NYT
+
+Theo báo New York Times, từ lâu Apple vẫn luôn đặt mục tiêu iPhone là một thiết bị được bảo mật tối đa, chỉ có chủ nhân của nó mới mở được.
+
+Đây cũng chính là mấu chốt vấn đề từng dẫn tới những cuộc chiến pháp lý dai dẳng giữa các quan chức thuộc lực lượng hành pháp Mỹ với đại gia công nghệ của thung lũng Silicon.
+
+Trong đó có vụ tranh tụng "đình đám" hơn cả diễn ra vào năm 2016 khi FBI muốn nhờ Apple giúp mở khóa chiếc iPhone của tội phạm nhưng công ty này từ chối và FBI đã phải bỏ cả một đống tiền để thuê một công ty khác giúp.
+
+Trong một động thái mới nhất, Apple cho biết sẽ chặn đứng nốt cái được cho là "kẽ hở" còn lại về mặt công nghệ vốn vẫn có thể giúp nhà chức trách bẻ khóa được iPhone, liên quan tới phần chân sạc, cũng là cổng giao tiếp của điện thoại và máy tính.
+
+Apple cho biết họ đang lên kế hoạch phát triển một bản cập nhật phần mềm cho iPhoen có khả năng vô hiệu hóa hoàn toàn phần cổng sạc và giao tiếp dữ liệu này.
+
+Phần cổng sạc của iPhone cũng chính là phần người dùng có thể cắm tai nghe, cáp sạc pin và thiết bị chuyển đổi adapter. Phiên bản phần mềm cập nhật sẽ có khả năng vô hiệu hóa cổng sạc này sau khi điện thoại bị khóa khoảng 1 tiếng.
+
+Sau khi tính năng vô hiệu hóa này được kích hoạt, mặc dù điện thoại vẫn có thể sạc pin, nhưng người dùng sẽ phải nhập mật khẩu của điện thoại để có thể chuyển giao dữ liệu đi và đến từ thiết bị thông qua cổng sạc.
+
+Sự thay đổi công nghệ này chắc chắn sẽ gây khó khăn nhiều hơn nữa cho các nhà hành pháp, những người lâu nay vẫn thường "bẻ khóa" các iPhone bị khóa bằng cách kết nối nó với một thiết bị khác chạy phần mềm đặc biệt thông qua phần chân sạc.
+
+Thông tin về việc Apple đang "ủ mưu" cung cấp bản cập nhật phần mềm với tính năng chặn nốt cánh cửa bảo mật thông qua chân sạc đã được lan truyền rộng rãi trên các blog bảo mật cũng như trong giới hành pháp Mỹ và dự kiến họ sẽ sớm có những động thái đáp trả sau thông tin này.

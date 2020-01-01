@@ -1,0 +1,25 @@
+Facebook thông báo đã xác định nguyên nhân gây sập mạng
+
+TTO - Đến khoảng bắt đầu qua ngày mới 15-3 (giờ VN), công ty Facebook thông báo đã xác định được nguyên nhân gây sự cố ảnh hưởng truy cập trên diện rộng đối với các nền tảng của mạng xã hội này.
+
+Như vậy khoảng 24 giờ sau khi có những thông báo xảy ra lỗi với các nền tảng của mạng xã hội này, trong đó có Messenger và Instagram, Facebook khẳng định đã biết nguyên nhân kỹ thuật của vấn đề và lỗi đó đang được sửa chữa.
+
+Facebook thông báo qua Twitter như sau: "Hôm qua, do một thay đổi trong cấu hình của server mà nhiều người đã bị khó truy cập vào các ứng dụng và dịch vụ của chúng tôi. Chúng tôi hiện đã giải quyết được vấn đề và các hệ thống của chúng tôi đang hồi phục. Chúng tôi thật sự lấy làm tiếc về mối bất tiện đó và cảm ơn các bạn đã kiên nhẫn với chúng tôi".
+
+Trong khi đó tài khoản chính thức trên Twitter của ứng dụng Instagram - một trong những nền tảng mà Facebook đang điều hành, cũng đã viết dòng reo vui "Chúng tôi trở lại!" vào lúc 21h41 tối 13-3 (giờ địa phương), tức vào khoảng 12h41 trưa 14-3 (giờ VN).
+
+Theo trang Downdetector.com chuyên giám sát hoạt động của các trang mạng, hoạt động của Facebook đã bị gián đoạn từ 12h giờ địa phương ngày 13-3 (tức 23h tối cùng ngày, giờ VN), trong đó có khu vực Bờ Đông và Bờ Tây của Mỹ, một số khu vực của châu Âu và những nơi khác. Trang chủ của Facebook và ứng dụng đều bị ảnh hưởng.
+
+Một số người dùng nhận được tin nhắn "Facebook bị treo do cần được bảo trì". Thoạt đầu phía Facebook cũng không giải thích được nguyên nhân khiến mạng xã hội này bị gián đoạn. Khi đó, thông qua tài khoản Twitter, phía Facebook chỉ khẳng định sự cố sập mạng này không phải do bị tấn công từ chối dịch vụ DDoS.
+
+Các báo cáo về lỗi truy cập Facebook đạt đỉnh điểm ở mức hơn 11.000 lượt trên toàn thế giới, theo thống kê của Downdetector.
+
+Sự cố sập mạng của Facebook đã khiến nhiều người dùng giận dữ và bày tỏ thái độ qua Twitter. Một hashtag #facebookdown đã xuất hiện, với rất nhiều dòng trạng thái đi kèm hình ảnh minh họa chế diễu Facebook.
+
+Facebook, có trụ sở ở bang California (Mỹ), với phần lớn doanh thu đến từ quảng cáo, cũng đã bị phản ứng mạnh từ một số khách hàng quảng cáo lớn của mình.
+
+Lỗi trên diện rộng đó đã ảnh hưởng ngay đến giá trị thị trường của Facebook. Trong phiên mở cửa đầu ngày của thị trường chứng khoán Mỹ sáng 14-3, giá cổ phiếu của Facebook đã bị giảm lập tức 2,5% trước khi hồi phục lại chút ít.
+
+Hồi tháng 11-2018, Facebook cũng đã bị sập mạng tại nhiều nước châu Mỹ, khiến giá cổ phiếu của Facebook mất giá một thời gian ngắn trước khi phục hồi trở lại. 
+
+Trước đó hai tháng, hàng chục nghìn người dùng Facebook và Instagram, chủ yếu tại Mỹ và châu Âu, cũng không truy cập được 2 mạng xã hội này trong một thời gian ngắn.

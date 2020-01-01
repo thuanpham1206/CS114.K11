@@ -1,0 +1,27 @@
+Lỗi 0-day khó tránh trong tất cả phiên bản Word
+
+TTO - Một lỗi bảo mật nguy hiểm chưa có bản vá (0-day) trong tất cả các phiên bản ứng dụng Microsoft Word đang đe doạ hàng triệu người dùng.
+​25 phát minh độc đáo của Microsoft nên biết
+Microsoft Pix: chụp ảnh miễn phí cho iPhone
+Kiến thức bảo mật của người Việt Nam: Lỗ hổng để tấn công mạng
+
+Các nhà nghiên cứu bảo mật từ Hãng FireEye và McAfee công bố thông tin về một lỗ hổng bảo mật dạng 0-day (chưa có bản vá từ nhà sản xuất) đối với tất các phiên bản Microsoft Word, kể cả khi máy tính đã cập nhật mới nhất.
+
+Theo FireEye, tin tặc có thể nhúng mã khai thác lỗ hổng vào trong file Word, đính kèm và gửi đi qua email. Chỉ cần người dùng máy tính có cài đặt Word mở tập tin đính kèm email là "dính" ngay thêm một tập tin gây hại tự động được tải về từ máy chủ của kẻ tấn công.
+
+Tập tin được tải về dạng ứng dụng HTML nên rất giống với dạng văn bản RTF (Rich Text Format) của Microsoft. Nó còn "kéo theo anh em" đi cùng là một nhóm các tập tin gây hại (mã độc) chưa xác định. 
+
+Chuyên gia bảo mật lo ngại với kiểu tấn công này, tin tặc qua mặt được cả hệ thống phòng chống tấn công ngay cả trên Windows 10 đã cập nhật bản vá mới nhất. Điều đáng lo hơn là thậm chí nạn nhân không cần kích hoạt chế độ chạy mã Macro trong Word vẫn bị "nhiễm".
+
+Người dùng được khuyến cáo không mở các tập tin văn bản Word đính kèm trong email, dù được gửi từ địa chỉ quen biết, cho đến khi Microsoft phát hành bản vá cho lỗ hổng này
+ 
+Để xem một tập tin văn bản Word an toàn, chuyên gia từ McAfee khuyến cáo nên mở ở chế độ "Xem an toàn" (Protected View) trong Word. Cụ thể, lưu (save) tập tin Word đính kèm trong email vào ổ cứng, và đừng vội mở ra. Thay vào đó, chạy ứng dụng Word, vào trình đơn File > Open, chọn mũi tên kế "Open" mở ra danh sách "Open in Protected View".
+
+Chế độ "Xem An toàn" (Protected View) chỉ có thể đọc nội dung, không hỗ trợ bất kỳ tính năng chỉnh sửa nội dung nào khác.
+
+Thông báo hiện trên tập tin Word khi xem ở chế độ an toàn
+Thông báo hiện trên tập tin Word khi xem ở chế độ an toàn
+
+Lỗ hổng này thực chất đã được FireEye khám phá từ vài tuần trước và đã liên hệ Microsoft để tạo bản vá cho người dùng, thông tin được giữ kín cho đến khi bản vá được phát hành. Tuy nhiên, ngày 7-4 vừa qua, Hãng bảo mật McAfee đột nhiên công bố chi tiết về lỗi nên ngày 8-4, FireEye cũng đăng tải về lỗi dạng 0-day này trong Word.
+
+Kỳ hạn cập nhật định kỳ của Microsoft đối với các sản phẩm là vào Thứ Ba (11-4), và chưa rõ bản vá lỗ hổng này cho Word có được phát hành kịp thời trong đợt này hay không. Theo đó, hàng triệu người dùng Word còn đang gặp nguy hiểm.

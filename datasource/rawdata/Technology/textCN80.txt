@@ -1,0 +1,29 @@
+Bẫy đánh cắp thông tin bủa vây người dùng
+
+TTO - Địa chỉ email của hơn 5,42 triệu người, khoảng 31.000 giao dịch ở Công ty CP Thế Giới Di Động bị lộ. Điều này một lần nữa cảnh báo thông tin của người dùng đang ẩn chứa rất nhiều nguy cơ.
+Thế Giới Di Động vẫn bác việc để lộ thông tin khách hàng
+Bị lộ thông tin thẻ ngân hàng có nguy hiểm không?
+Web Thế Giới Di Động bị hack, thông tin khách hàng có bị lộ?
+Bẫy đánh cắp thông tin bủa vây người dùng - Ảnh 1.
+Khách hàng thanh toán tiền bằng thẻ ngân hàng tại cửa hàng thiết bị di động ở Q.3, TP.HCM - Ảnh: QUANG ĐỊNH
+
+Các chuyên gia vẫn khuyến cáo những người dùng có trong danh sách dữ liệu bị lộ nên chủ động thay đổi mật khẩu các tài khoản liên quan.
+
+Chưa thể khẳng định bị hack
+Thành viên có tên erwincho đã đưa lên diễn đàn RaidForums các tập tin dữ liệu được giới thiệu là kho thông tin khách hàng của Thế Giới Di Động. Lịch sử giao dịch, loại thẻ thanh toán, số thẻ thanh toán (một số hiện đầy đủ 16 số), số tiền giao dịch... bị công khai được cho là đã thực hiện vào tháng 6, tháng 7-2016.
+
+Trao đổi với Tuổi Trẻ ngày 8-11, đại diện Cục An toàn thông tin, Bộ Thông tin và Truyền thông cho biết cơ quan này đang xác minh vụ việc. Trong khi đó, các chuyên gia an ninh mạng đều cho rằng những thông tin được đưa lên mạng chưa đủ để khẳng định hệ thống mạng của Thế Giới Di Động đã bị tấn công và lộ dữ liệu.
+
+Ông Ngô Tấn Vũ Khanh, Giám đốc phát triển thị trường VN của hãng bảo mật Kaspersky Lab, phân tích: giao dịch chính giữa khách hàng và Thế Giới Di Động hiện qua máy quẹt thẻ thanh toán (POS) và website thương mại điện tử. 
+
+Với quẹt thẻ, máy POS và hệ thống phần mềm của Thế Giới Di Động trên POS sẽ bị tách rời ra khỏi hệ thống thanh toán. Máy thanh toán bị kiểm soát (hay được cung cấp) bởi các đơn vị ngân hàng.
+
+Máy POS chỉ lưu lại các thông tin cá nhân khách hàng khi mua hàng phục vụ cho các chương trình khuyến mãi hay các chương trình tích điểm, khách hàng thân thiết... 
+
+"Nhiệm vụ và chức năng của các máy POS không thể lưu lại thông tin thẻ tín dụng hay quốc tế của khách hàng" - ông Khanh nói và cho rằng Thế Giới Di Động không thể mạo hiểm thương hiệu để làm ra các phần mềm hay thiết bị để lưu lại các thông tin thẻ tín dụng của khách hàng.
+
+Với giao dịch qua các website thương mại điện tử, ông Khanh cho rằng dù hacker có xâm nhập được hệ thống cũng không thể nào lấy được thông tin thẻ tín dụng từ máy chủ của Thế Giới Di Động. 
+
+"Đơn giản là vì Thế Giới Di Động sử dụng các cổng thanh toán trung gian. Ngay khi kích chuột vào chữ thanh toán Visa/Master hay các loại hình thanh toán khác, thông tin thanh toán sẽ được chuyển đến cổng thanh toán trung gian như: 123pay hay Napas", ông Khanh nói.
+
+Đại diện Công ty an ninh mạng Bkav cũng cho rằng: "Hiện tại, với những thông tin này vẫn chưa thể khẳng định Thế Giới Di Động có bị lộ dữ liệu hay không".

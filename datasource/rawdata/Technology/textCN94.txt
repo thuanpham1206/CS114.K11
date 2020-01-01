@@ -1,0 +1,34 @@
+​Apple phát hành bản vá lỗi cho Mac, iPhone, Apple Watch, Apple TV
+
+TTO - Apple phát hành bản cập nhật, vá 67 lỗ hổng bảo mật cho ba hệ điều hành macOS (Mac), iOS (iPhone/iPad), watchOS (Apple Watch) và tvOS (Apple TV). Người dùng cần cập nhật ngay.
+​Apple thâu tóm Beddit, hướng đến giấc ngủ người dùng
+Apple ra mắt iPhone 7 ​màu son đỏ
+Coi chừng mở trang 'apple.com' nhưng không phải của Apple
+Ảnh: Apple
+Ảnh: Apple
+
+Khi Microsoft đang bận rộn kêu gọi người dùng Windows cập nhật các bản vá lỗi nhằm ngăn chặn mã độc tống tiền WannaCry, Apple không ngồi chơi, phát hành bản cập nhật cho đồng loạt ba hệ điều hành macOS 10.12.5 (Mac), iOS 10.3.2 (iPhone/iPad), watchOS 3.2.2 (Apple Watch) và tvOS 10.2.1 (Apple TV).
+
+Mac không miễn nhiễm trước các loại mã độc mã hóa dữ liệu tống tiền (Ransomware), đã có một số loại mã độc thuộc họ này nhắm đến Mac (macOS / Mac OS X)
+ 
+Theo thông báo từ Apple, bản cập nhật vá tổng cộng 67 lỗ hổng bảo mật, khuyến cáo người dùng cài đặt ngay kèm nâng cấp iTunes 12.6.1 (Windows) và iCloud 6.2.1 (Windows). Trong số các lỗ hổng bảo mật, có một số lỗi có thể bị tin tặc khai thác tấn công từ xa.
+
+Người dùng iPhone, iPad và iPod Touch cũng cần cập nhật ngay khi có thể iOS 10.3.2 để ngăn chặn 41 lỗi bảo mật, trong đó có 22 lỗi nguy hiểm, có thể tiếp tay tin tặc tấn công iPhone hay thiết bị di động của mình, thậm chí chiếm giữ với quyền hạn cao nhất. (Để cập nhật iPhone/iPad/iPod Touch, bạn vào Settings (Thiết lập/Cài đặt) > General > Software Update.)
+
+Đối với người dùng Mac, bản cập nhật khắc phục một số lỗi và vá lỗ hổng bảo mật tùy thuộc phiên bản macOS là Sierra, El Capitan hay Yosemite (tham khảo tại đây). Phiên bản hệ điều hành mới nhất là macOS Sierra có đến 37 lỗ hổng bảo mật, bao gồm cả lỗ hổng cho phép tin tặc đánh cắp các thông tin kết nối mạng Wi-Fi. (Để cập nhật cho Mac, mở App Store > Updates, hoặc tải và cài đặt offline bản cập nhật tại đây cho macOS Sierra, tải tại đây cho OS X El Capitan và tải cho OS X Yosemite)
+
+Với đồng hồ thông minh (smartwatch)  Apple Watch, cập nhật watchOS 3.2.2 bằng cách mở ứng dụng Apple Watch trên iPhone > My Watch > General > Software Update để vá 12 lỗ hổng bảo mật.
+
+Trên Apple TV cũng tồn tại 23 lỗi, vào Settings > System > Update Software để tải bản cập nhật trực tiếp tvOS 10.2.1.
+
+PHONG VÂN
+NỔI BẬT
+Microsoft vinh danh nữ giáo viên Việt Nam
+Công nghệ
+Facebook xin lỗi người dùng về sự cố tối 14-4
+Công nghệ
+Phát hiện hệ thống do thám người dùng của tội phạm mạng
+Công nghệ
+Nhu cầu 4G giỗ tổ năm nay tăng 3,5 lần so với năm ngoái
+Công nghệ
+IPad Apple iOS Mac OS X Apple TV

@@ -1,0 +1,18 @@
+​Hai cách đánh cắp tài khoản ngân hàng phổ biến
+
+TTO - Các chuyên gia an ninh mạng vừa chỉ ra hai cách thức mà hacker thường sử dụng để chiếm đoạt tài khoản ngân hàng của người dùng tại Việt Nam.
+​Mã độc trộm tài khoản ngân hàng trên di động
+​Ngân hàng cảnh báo bẫy lừa lấy tiền trong tài khoản
+Bảo vệ an toàn tài khoản ngân hàng di động
+
+Theo Công ty an ninh mạng Bkav, hàng loạt vụ việc đánh cắp tài khoản người dùng dịch vụ ngân hàng trực tuyến đã xảy ra trong ba tháng đầu năm 2017.
+
+Qua phân tích các vụ việc, các chuyên gia an ninh mạng Bkav chỉ ra hai cách thức mà hacker sử dụng để chiếm đoạt tài khoản ngân hàng của người dùng tại Việt Nam. Đó là sử dụng mã độc đánh cắp thông tin và giả mạo website ngân hàng, tổ chức tài chính.
+
+Với cách sử dụng mã độc, hacker tạo một ứng dụng độc hại, thường là núp bóng ứng dụng phổ biến hoặc phần mềm bẻ khóa (crack) rồi đưa lên Internet. Khi người dùng tải về và sử dụng, mã độc sẽ được kích hoạt để đánh cắp thông tin cá nhân, tài khoản, mật khẩu. Sau khi chiếm được tài khoản của người dùng, tội phạm mạng sẽ tiến hành các giao dịch lấy cắp tiền.
+
+Với cách giả mạo website ngân hàng, tổ chức tài chính, hacker tạo ra các website có giao diện giống hệt trang của ngân hàng, dịch vụ chuyển tiền… Bước tiếp theo, chúng mạo danh ngân hàng, người thân, bạn bè gửi đường dẫn trang web đó tới nạn nhân.
+
+Trên trang giả mạo, người dùng sẽ được yêu cầu nhập thông tin cá nhân, tài khoản. Một khi thực hiện theo các hướng dẫn này là người dùng đã tự cung cấp tài khoản của mình cho hacker.
+
+Ông Ngô Tuấn Anh, phó chủ tịch phụ trách an ninh mạng của Bkav, cho biết: “Để không trở thành nạn nhân các chiêu trò lừa đảo, người dùng lưu ý không kích chuột vào các đường dẫn lạ. Đối với các yêu cầu đáng ngờ, nên xác minh với bạn bè, người thân trước khi cung cấp thông tin. Tuyệt đối không cài phần mềm không rõ nguồn gốc hay tải các ứng dụng không phải từ kho chính thống”.

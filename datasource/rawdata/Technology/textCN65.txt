@@ -1,0 +1,21 @@
+Điện thoại iPhone ‘dị ứng’ với khí heli
+
+TTO - Sự thật bất ngờ này đã được một kỹ sư tiết lộ sau khi xem xét tìm hiểu nguyên nhân trục trặc của nhiều chiếc iPhone và thậm chí là cả đồng hồ Apple Watch.
+
+Theo trang ifixit, anh Erik Wooldridge là chuyên viên hệ thống làm việc tại bệnh viện Morris ở Chicago, Mỹ. Trong thời gian lắp đặt một máy chụp MRI của hãng GE Healthcare, anh Erik bắt đầu nhận được những cuộc gọi "cầu cứu" của một số người vì điện thoại iPhone của họ không hoạt động, sau đó là tới một số trường hợp liên quan đồng hồ thông minh Apple Watch của iPhone cũng không hoạt động.
+
+"Ý nghĩ ngay lập tức của tôi là thiết bị chụp MRI chắc hẳn đã phát ra xung điện từ (EMP) và trong trường hợp đó chúng ta có thể đối mặt với nhiều rắc rồi", anh Erik nói.
+
+Sau khi loại bỏ được yếu tố này và bắt đầu điều tra nguyên nhân, anh Erik nhận thấy tất cả các thiết bị điện tử bị ảnh hưởng đều là do Apple sản xuất và có tới 40 thiết bị khác nhau bị ảnh hưởng.
+
+Anh cho biết những biểu hiện của các thiết bị này khá lạ. Hầu hết chúng đều đã "chết" hẳn, khi cắm vào nguồn điện không có chỉ dấu nào cho thấy chúng đang được sạc. Còn vẫn những thiết bị vẫn còn pin thì lại gặp các vấn đề với phần sóng radio.
+
+Trong khi kết nối wifi ổn định và nhanh thì kết nối mạng di động lại bập bõm. Sau khi chia sẻ vấn đề này lên diễn đàn Reddit, một số ý kiến nêu giả thuyết cho rằng trục trặc này có thể bắt nguồn từ khí heli được sử dụng để làm mát thiết bị chụp MRI.
+
+Anh Erik điều tra theo hướng này và phát hiện đúng là đã xảy ra tình trạng rò rỉ khí heli đồng thời với quá trình dòng khí này được bơm vào tòa nhà để làm mát cho máy MRI.
+
+Các thiết bị này sau đó cũng hồi phục từ từ, nhưng không hoàn toàn. "Chúng tôi vẫn thấy một số thiết bị bất thường. Một chiếc iPhone gặp những vấn đề trục trặc nghiêm trọng sau đó và một số cái Apple Watch thì vẫn bật nguồn nhưng màn hình cảm ứng lại không hoạt động", anh Erik cho biết.
+
+Cũng theo anh Erik, các mẫu iPhone và Apple Watch bị ảnh hưởng trong môi trường khí heli là các iPhone 6 trở lên và Apple Watch Series 0 trở lên. Bằng chứng là chiếc iPhone 5 trong tòa nhà không bị ảnh hưởng.
+
+Trong thông tin hướng dẫn người dùng của Apple đã thừa nhận vấn đề này và khuyến cáo người dùng iPhone nên tránh đặt thiết bị trong các môi trường có nồng độ lớn của các loại hóa chất công nghiệp, trong đó bao gồm cả việc ở gần những loại khí khi heli.

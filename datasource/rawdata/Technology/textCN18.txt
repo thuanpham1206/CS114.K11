@@ -1,0 +1,51 @@
+10 xu hướng chuyển đổi kỹ thuật số hàng đầu năm 2019
+
+TTO - Chuyển đổi kỹ thuật số không chỉ là một sự thay đổi về công nghệ, mà đó còn là một sự thay đổi về tổ chức, kinh doanh và con người. Dưới đây là 10 xu hướng chuyển đổi kỹ thuật số được dự đoán sẽ lên ngôi trong năm 2019.
+
+1. 5G
+
+Được mệnh danh là "kẻ hủy diệt" mạng Wi-Fi trong tương lai, 5G có tốc độ tối đa cao hơn, kết nối được nhiều thiết bị cùng lúc hơn, do đó ứng dụng của 5G không chỉ đóng vai trò quan trọng với điện thoại thông minh và máy tính bảng, mà còn hỗ trợ rất nhiều cho các ứng dụng ngoài đời thực khác.
+
+2019 sẽ là thời điểm thú vị cho 5G và thiết bị di động khi Qualcomm, Intel, Nokia, Ericcson, Samsung và Huawei hiện đã tham gia vào "cuộc đua 5G".
+
+2. Chatbot
+
+Có thể nhiều người đã có những trải nghiệm chatbot cực kỳ tệ hại trong năm 2018 nhưng vào năm sau, công nghệ này sẽ cải tiến hơn, được đào tạo bằng AI và học máy để xử lý ngôn ngữ tự nhiên và phân tích cảm xúc của người dùng.
+
+Ngoài ra, mặc dù sự xuất hiện của chatbot có thể tác động đến lực lượng lao động, nhưng điều này không có nghĩa các công ty sẽ thay thế toàn bộ nhân sự bằng chatbot, chỉ dùng chatbot khi cần thiết để mang đến trải nghiệm mới mẻ hơn cho khách hàng.
+
+3. Điện toán đám mây
+
+Các đám mây được kết nối sẽ liên tục phát triển để đáp ứng nhu cầu thay đổi của người dùng, cho dù bạn muốn lưu trữ, bảo mật mạng, hoặc triển khai ứng dụng trên đám mây.
+
+Thuật ngữ "multicloud" sẽ sớm được sử dụng thường xuyên hơn khi nhiều nhà cung cấp đám mây công cộng hiện đang nghiên cứu tích hợp nhiều chức năng và cung cấp nhiều tùy chọn mới cho công nghệ này.
+
+4. Blockchain
+
+Đến thời điểm này, khái niệm blockchain dường như chỉ gắn với tiền điện tử, nhiều người còn cho rằng đây là một chiến lược tiếp thị hơn là một công nghệ thật sự.
+
+Hiện IBM đã công bố sẽ nghiên cứu tiềm năng của blockchain trong vận chuyển hàng hóa và dịch vụ. Các nhà phát triển công nghệ khác cũng đã có động thái tìm hiểu sâu hơn để nhận ra tiềm năng của blockchain trong năm 2019.
+
+5. Phân tích dữ liệu, trí tuệ nhân tạo và máy học
+
+Nhiều nghiên cứu cho thấy phần lớn doanh nghiệp chỉ đang sử dụng 1% dữ liệu một cách hiệu quả. Đó là lý do rất nhiều công ty như Microsoft, SAP, SAS và Salesforce đã thúc đẩy phân tích dữ liệu bằng trí tuệ nhân tạo (AI) và máy học (machine learning) để đưa con số 1% tăng lên 3% hoặc 4% vào năm sau.
+
+6. GDPR
+
+Tuy không phải là một công nghệ nào đó, nhưng Quy định Bảo vệ Dữ liệu chung của châu Âu (GDPR) vẫn có ảnh hưởng không nhỏ đến quá trình chuyển đổi kỹ thuật số. Trong năm 2019, GDPR sẽ là sự khởi đầu của một xu hướng toàn cầu khi các công ty có ý thức chịu trách nhiệm về cách mình ứng xử với quyền riêng tư và dữ liệu cá nhân.
+
+7. AR và VR
+
+AR và VR của năm 2018 chỉ mới dừng lại ở việc thử nghiệm trên game và các ứng dụng chuyên biệt cao. Trong xu hướng chuyển đổi kỹ thuật số năm 2019, AR và VR được dự đoán sẽ sớm được sử dụng trong đào tạo lực lượng lao động của doanh nghiệp.
+
+8. IoT tích hợp
+
+IoT hiện đang rất phát triển với số lượng thiết bị được kết nối ngày càng tăng lên. Các khái niệm về các thành phố thông minh và các phương tiện tự lái không còn xa lạ nữa. Điều đó có nghĩa là công nghệ này cần thêm không gian để xử lý dữ liệu và tối đa hóa việc sử dụng dữ liệu. Chính vì thế, có thể IoT sẽ tích hợp với AI, máy học và điện toán đám mây trong năm 2019 để phù hợp với xu hướng chuyển đổi kỹ thuật số mới.
+
+9. Dịch vụ công nghệ thông tin
+
+Với ngành công nghiệp dịch vụ ngày càng phát triển, các công ty đang trở nên tinh vi hơn trong việc lựa chọn các dịch vụ công nghệ thông tin phù hợp với nhu cầu của họ. Điều này cho phép các chuyên gia công nghệ nhiều khả năng mở rộng hơn trong việc phát kiến công nghệ mới và đưa ra nhiều dịch vụ công nghệ thông tin mới trên cơ sở phát triển các công nghệ sẵn có.
+
+10. Nhân sự chất lượng cao
+
+Dù các công nghệ có phát triển cỡ nào thì yếu tố con người vẫn rất quan trọng. Xu hướng đầu tư vào nhân sự công nghệ thông tin và marketing chắc chắn còn quan trọng hơn cả quá trình chuyển đổi kỹ thuật số đang diễn ra. Các giám đốc điều hành cần phải ưu tiên xu hướng này để nhận ra bản chất quan trọng của việc xây dựng văn hóa doanh nghiệp chính là nền tảng con người chất lượng cao.

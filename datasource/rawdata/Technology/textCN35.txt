@@ -1,0 +1,70 @@
+ Thị trường kinh doanh trực tuyến: cần hệ thống luật liên kết quốc gia
+
+TTO - “Việt Nam ở đâu trong cuộc cách mạng công nghiệp lần thứ tư” là vấn đề được dư luận quan tâm, và một điều không thể phủ nhận: công nghệ đã góp phần không nhỏ thay đổi bộ mặt của nền kinh tế Việt Nam.
+Với những số liệu tăng trưởng rất đáng ghi nhận của ngành CNTT trong thời gian qua như chỉ riêng lĩnh vực Thương mại điện tử, doanh thu năm 2016 đã cán mốc 5 tỷ USD, so với doanh thu xuất khẩu gạo, vốn là lĩnh vực chủ lực của nước ta năm 2016 chỉ thu về 2,2 tỷ USD.
+
+Và đó, chỉ là một trong nhiều lĩnh vực ứng dụng sự phát triển của CNTT và Internet tại Việt Nam đang có sự tăng trưởng mạnh mẽ lên đến 2 con số một năm. Số lượng người sử dụng Internet ở Việt Nam, tính đến tháng 1-2017 đã lên đến 53% dân số, ngang với mức trung bình toàn thế giới.
+
+
+Tỉ lệ người dùng Internet ở Việt Nam so với khu vực (Nguồn: Internet)
+Còn lúng túng khi xử lý vi phạm
+
+Hiện tại, chúng ta có rất nhiều văn bản pháp luật điều chỉnh việc ứng dụng các phương tiện điện tử vào hoạt động kinh doanh, thương mại như Luật Công nghệ thông tin, Luật Viễn thông, Luật Giao dịch điện tử... và các văn bản hướng dẫn trong đó có Nghị định 72/2013/NĐ-CP về Quản lý, cung cấp, sử dụng dịch vụ internet và thông tin trên mạng, Nghị định 52/2013/NĐ-CP về Thương mại điện tử, Thông tư 38/2016/TT-BTTTT về cung cấp thông tin công cộng xuyên biên giới cùng rất nhiều các văn bản dưới luật khác. 
+
+Tuy có nhiều quy định để quản lý, nhưng dường như hệ thống văn bản ấy chưa đồng bộ, và chưa thể bao quát được toàn bộ các hoạt động kinh doanh có ứng dụng công nghệ mới hiện đang diễn ra sôi động tại thị trường Việt Nam và thay đổi từng ngày cùng sự phát triển của công nghệ.
+
+Với một số lĩnh vực đang được thí điểm, như kinh doanh dịch vụ vận tải thông qua mạng Internet của Grab và Uber, chúng ta cũng chỉ có Nghị định 86-2014/NĐ-CP về việc thí điểm này. Vốn dĩ là một nước đi sau, phát triển muộn hơn các quốc gia khác về hoạt động kinh doanh trực tuyến, những nỗ lực của Chính phủ nhằm đưa ra các văn bản pháp luật đảm bảo quyền lợi hợp pháp và chính đáng của đối tượng cung cấp cũng như sử dụng dịch vụ này là không thể phủ nhận. Nhưng trên thực tế, các văn bản trên đều chưa bao quát hết được các vấn đề hiện nay đang diễn ra hàng ngày, hàng giờ trên mạng Internet. 
+
+Tiêu biểu như vấn đề quảng cáo trực tuyến của Youtube trong thời gian gần đây, mặc dù Bộ Văn hóa Thể thao Du lịch đã có ý định xử phạt hoạt động quảng cáo Youtube vi phạm các quy định pháp luật của Việt Nam. Nhưng có 1 thực tế, là Youtube lẫn công ty mẹ Google và ngay cả Facebook, mặc dù có hoạt động quảng cáo với các doanh nghiệp Việt Nam, cũng như có phát sinh doanh thu tại Việt Nam, nhưng hoàn toàn không có 1 pháp nhân nào đại diện tại Việt Nam.
+
+Chúng ta dĩ nhiên, không thể xử phạt một đơn vị trên danh nghĩa là không hề tồn tại. Chưa hết, thuật toán hiển thị quảng cáo của Youtube, hoàn toàn do trí tuệ nhân tạo quyết định về việc quảng cáo nào sẽ được hiện thị trên video nào, doanh nghiệp tham gia quảng cáo lẫn Youtube hoàn toàn không có bất kì tác động nào bằng hành vi của con người lên đó.
+
+Rõ ràng, chúng ta cũng không thể phạt một cái máy, và doanh nghiệp tham gia quảng cáo cũng hoàn toàn vô can. Sự lúng túng này, đã dẫn đến việc quyết định về xử phạt, sẽ chẳng bao giờ được thực hiện, và Bộ Thông tin và truyền thông phải chọn cách làm nhẹ nhàng hơn, là phối hợp với Youtube đề nghị xóa hơn 2.000 clip có nội dung độc hại, trong đó Youtube mới chỉ xử lý 1173 trường hợp.
+
+Nói rộng ra về câu chuyện của Youtube, theo quy định của Luật Công nghệ thông tin và Nghị định 72/2014/NĐ-CP thì bất kì hoạt động kinh doanh mạng xã hội nào diễn ra tại Việt Nam cũng đều phải có đăng ký pháp nhân tại Việt Nam, cũng như có ít nhất 1 máy chủ tại Việt Nam.
+
+Thế nhưng, đây là một quy định không hề có tính khả thi, mạng Internet là một kết nối toàn cầu, chúng ta không thể cấm người ở Việt Nam tham gia và sử dụng các dịch vụ của nước khác, hay nói đúng hơn, là không thể, và cũng không nên làm như vậy.
+
+Các dịch vụ như Google, Youtube, Facebook... mặc dù không có pháp nhân và không đóng thuế khi hoạt động ở Việt Nam, nhưng sự bùng nổ của nó đã tạo ra rất nhiều công ăn việc làm tại Việt Nam, nhiều doanh nghiệp Việt Nam đang hoạt động trên các nền tảng đó và phát triển mạnh mẽ vẫn đang hoàn thành đầy đủ nghĩa vụ với nhà nước.
+
+Và chúng ta đang thiếu 1 chế tài thống nhất để xử lý vi phạm về các hoạt động trong lĩnh vực kinh doanh trực tuyến. Thực tế, toàn bộ hệ thống văn bản từ Luật đến các Nghị định, thông tư về vấn đề này, không hề đưa ra bất kì 1 khung chế tài nào trong việc xử lý các vi phạm. Việc xử lý hoàn toàn căn cứ theo các bộ luật dân sự, hình sự hiện hành, vốn dĩ không được xây dựng nên nhằm quản lý các hoạt động kinh doanh trên Internet.
+
+Chính ví thế, các cơ quan chức năng khi phát hiện sai phạm, rất lúng túng trong quá trình xử lý. Câu chuyện Youtube phía trên kia, chỉ là 1 trong nhiều trường hợp đang diễn ra hàng ngày trên Internet, và cũng không phải câu chuyện duy nhất đang rầm rộ trên mặt báo.
+
+Grab và Uber trong quá trình thí điểm của mình, mặc dù đã có văn bản pháp luật quy định rất rõ ràng, nhưng vẫn đang gây làn sóng tranh cãi từ phía các doanh nghiệp taxi truyền thống lẫn các chính quyền địa phương tham gia thí điểm, về hoạt động của Grab và Uber có hay không việc phá vỡ quy hoạch về quản lý taxi hiện hành? Câu trả lời, vẫn đang nằm ở phía đơn vị chủ quản đề án thí điểm là Bộ Giao thông vận tải.
+
+Các quốc gia khác: đã hoàn thiện khung chế tài
+
+Với sự phát triển bùng nổ của mạng Internet và các hoạt động diễn ra trên đó, các quốc gia cũng có nhiều chế tài khác nhau nhằm kiểm soát và đảm quyền quyền lợi cũng như trách nhiệm của các bên tham gia.
+
+Hầu hết các quốc gia, đều có những bộ luật dành riêng cho lĩnh vực này, kể cả các nước trong khu vực như Thái Lan, Malaysia, Singapore, và các nước châu Á khác như Ấn Độ, Hàn Quốc, và hầu hết đều được ra đời từ rất sớm, trước nước ta cả 1 thấp kỷ, như Malaysia từ năm 1997, Ấn Độ có từ năm 2.000.
+
+Với Mỹ và EU, nơi các chế tài pháp luật đã có sự hoàn thiện cao, các điều luật này ra đời từ rất sớm, thậm chí từ những năm 80 của thế kỉ trước, và được bổ sung, hiệu chỉnh thường xuyên, với đầy đủ các chế tài xử phạt, và có sự liên kết giữa nhiều quốc gia. Thực tế, các điều khoản hoạt động của các công ty Internet, hầu hết hiện nay đều tuân theo các quy định pháp luật của Mỹ và Liên minh châu Âu EU.
+
+Tuy vậy, với đặc thù là sự phát triển có thể lan ra quy mô toàn cầu, nhưng pháp nhân doanh nghiệp lại chỉ đăng ký ở một vài quốc gia, hầu hết các nước trên thế giới đều áp dụng biên pháp phối hợp các công ty công nghệ để lọc và chặn các thông tin trái pháp luật nước sở tại đối với các truy cập đến từ quốc gia đó.
+
+Hàn Quốc thậm chí đưa ra 1 đạo luật chống phỉ báng qua mạng, cho phép cảnh sát điều tra các bình luận, bài viết phỉ báng cá nhân trên mạng Internet mà không cần bất cứ phàn nàn nào của nạn nhân.
+
+Hơn 60% người được khảo sát ở Hàn Quốc đã ủng hộ quyết định này (Theo Korea Times). Điều này đã dẫn đến việc Google phải chặn tính năng bình luận của Youtube với người dùng tại Hàn Quốc từ năm 2009, và chỉ mới cho phép mở lại từ năm 2012. Thậm chí, luật pháp Hàn Quốc quy định bắt buộc người dùng phải cung cấp ID card cho rất nhiều hoạt động trên Internet.
+
+Không riêng Hàn Quốc, rất nhiều quốc gia hiện đang áp dụng phương pháp tương tự hoặc kiểm duyệt nội dung Internet, tiêu biểu như Trung Quốc, Singapore, Ấn Độ... nhằm ngăn chặn phát tán các nội dung xấu trên mạng bằng cách áp dụng một số biện pháp kỹ thuật.
+
+Việc chủ động trong việc kiểm soát thông tin như vậy, giúp chính phủ các quốc gia dễ dàng điều chỉnh các hoạt động trên mạng Internet của công dân, vì hiện nay, vấn đề chế tài cho các hoạt động Internet xuyên quốc gia, vẫn là 1 đề tài pháp luật gây nhiều tranh cãi, về việc chế tài pháp luật nào sẽ kiểm soát hoạt động này.
+
+Đồng thời, việc ngăn chặn trong một giới hạn nào đó vừa đủ để không làm cho các thông tin độc hại gây ảnh hưởng đến xã hội, nhưng vẫn phát triển được nền kinh tế dựa trên Internet.
+
+Trung Quốc, Singapore, Ấn Độ, Hàn Quốc hiện nay, đều là các cường quốc hàng đầu về công nghệ thông tin. 
+
+ Các quốc gia này cũng tiến hành phối hợp đàm phán với các công ty công nghệ toàn cầu, nhằm tạo điều kiện cho các công ty công nghệ phát triển dựa trên khuôn khổ pháp luật nước sở tại. Ví dụ như tại Hàn Quốc, có một bộ luật đặc biệt không cho phép xuất khẩu bản đồ nước này với tỉ lệ 1:50 000 trở xuống ra khỏi biên giới, vì thế các công ty cung cấp dịch vụ bản đồ trực tuyến như Google Maps chấp nhận thương thuyết với chính phủ nước này nhằm chặn dịch vụ chỉ đường trên bản đồ trực tuyến của mình, đồng thời máy chủ lưu trữ bản đồ phải đặt tại Hàn Quốc và chịu sự kiểm duyệt của chính phủ.
+
+Trung Quốc mới đây cho biết, sẵn sàng chấp nhận hoạt động của Facebook và Google nếu như tuân thủ pháp luật của quốc gia này. Rõ ràng, mặc dù các nền tảng Internet xuyên quốc gia tạo ra nhiều giá trị cho quốc gia sở tại, nhưng cái mà các công ty này cần là người dùng, và các quốc gia hoàn toàn có thể đứng ra đàm phán nhằm đạt mục đích chung.
+
+Ngoài ra, việc đưa ra chế tài luật pháp thống nhất với luật pháp quốc tế và luật pháp các quốc gia trong tổ chức chung là một cách nhằm giải quyết vấn đề tranh chấp khi xảy ra. Liên minh Châu Âu đã từng nhiều lần đưa ra phán quyết phạt Microsoft với tổng số tiền lên tới 3 tỷ USD vì vấn đề độc quyền, và đại gia công nghệ này không còn cách nào khác là phải chấp nhận án phạt nếu muốn hoạt động tiếp tại thị trường này.
+
+Google cũng đang đối mặt với vụ kiện tương tự và nếu thua, công ty này phải chịu phạt lên tới 6 tỷ USD. Liên minh Châu Âu có thể làm được điều này hoàn toàn dựa vào sự thống nhất về luật pháp giữa các quốc gia thành viên.
+
+Với mục tiêu xây dựng nhà nước pháp trị, và hướng đến môi trường kinh doanh lành mạnh, đảm bảo quyền lợi hợp pháp cho tất cả các bên tham gia, việc hoàn thiện một hệ thống pháp luật đầy đủ, rõ ràng, và có tính bao quát, đồng thời tạo được động lực thúc đẩy sự phát triển, là một việc cấp thiết phải làm ngay.
+
+Ngoài ra, các chế tài pháp luật cần thống nhất dựa trên các quy định chung của quốc tế, để các vụ việc liên quan đến yếu tố đa quốc gia có thể có được 1 chế tài thống nhất cho việc xử lý, đảm bảo quyền lợi cho Việt Nam.
+
+Trên thực tế, đây là một vấn đề khó khăn của nhiều quốc gia chứ không riêng gì Việt Nam, nhưng đằng sau sự khó khăn đó, là một mảnh đất màu mỡ chắp cánh cho nền kinh tế Việt Nam bay cao và bay xa. 

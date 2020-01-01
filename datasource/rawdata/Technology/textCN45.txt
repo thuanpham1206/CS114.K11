@@ -1,0 +1,12 @@
+Microsoft mở cửa "kho báu" công nghệ tải miễn phí
+
+TTO - Hàng loạt sách công nghệ hướng dẫn cơ bản đến chuyên sâu vừa được Microsoft phát hành miễn phí cho mọi người dùng.
+4ThcOjkf.jpg
+Một số tài liệu về WIndows 8.1 trong bộ sách điện tử vừa được Microsoft MSDN phát hành miễn phí - Ảnh: MSDN
+Thông qua kênh Microsoft MSDN blog, mọi người dùng có thể tiếp cận miễn phí một lượng lớn sách điện tử (ebook) kỹ thuật công nghệ, gồm: Windows 8, bộ tài liệu triển khai Windows 8.1 trong môi trường doanh nghiệp, ứng dụng cho Windows 8.1, SharePoint, Office 365, và tài liệu sử dụng các ứng dụng văn phòng trong bộ Office 2013 như Excel, Access, OneNote, Word, Outlook, Powerpoint, .NET, SQL, Windows Server...
+
+Đây là một tài sản quý không chỉ đối với những lập trình viên, các quản trị mạng mà còn cho người dùng phổ thông tập sử dụng các ứng dụng văn phòng Office, hay hệ điều hành Windows 8 và 8.1.
+
+Bên cạnh sách kỹ thuật, trong tổng số 130 sách phát hành kỳ này còn bao gồm những giải pháp như CRM, điện toán đám mây (Cloud) Azure, Lync, BYOD...
+
+Trước đây năm 2012, Microsoft cũng từng "xuất kho" 80 sách điện tử về Windows 7, Windows 8, lập trình ứng dụng, và SQL Server, Office 365.

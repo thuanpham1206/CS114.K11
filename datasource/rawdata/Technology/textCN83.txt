@@ -1,0 +1,18 @@
+Camera an ninh đang mất an ninh nhất
+
+TTO - Rất nhiều gia đình, cửa hàng, doanh nghiệp tại Việt Nam đang ứng dụng camera an ninh để theo dõi, giám sát nhưng lại không biết rằng chúng đang dễ bị tấn công nhất.
+Camera an ninh sẽ sớm được tự động hóa
+Phát hiện lỗ hổng khiến camera an ninh 'phản' chủ
+​Camera an ninh Sony bị lỗi “cửa hậu”, người dùng nên cập nhật bản vá
+Camera an ninh đang mất an ninh nhất - Ảnh 1.
+Hikvision có số lượng camera tồn tại lỗ hổng nhiều nhất hiện nay. - Ảnh: ĐỨC THIỆN
+
+Chia sẻ tại hội thảo và triển lãm quốc tế về thiết bị thông minh IoT (internet of things) diễn ra ngày 24-10 tại TP.HCM, ông Nguyễn Huy Dũng, phó cục trưởng Cục an toàn thông tin, Bộ Thông tin - truyền thông, cho biết camera ip, router (bộ định tuyến), máy in và thiết bị VoIP là những thiết bị IoT có lỗ hổng an ninh mạng nhiều nhất tại Việt Nam hiện nay.
+
+Trong đó, riêng camera giám sát được sử dụng tại Việt Nam hiện đang có 316.712 thiết bị đang tồn tại lỗ hổng gây nguy cơ mất an toàn thông tin. Ba nhà sản xuất có thiết bị camera đang được sử dụng tại Việt Nam tồn tại lỗ hổng nhiều nhất là Hikvision (hơn 210.000 thiết bị), Dahua (gần 50.000) và Avtech (khoảng 20.000).
+
+Cũng theo ông Dũng, 5 tỉnh, thành phố của Việt Nam hiện đang có số lượng camera an ninh tồn tại lỗ hổng nhiều nhất lần lượt là: Hà Nội (gần 60.000 thiết bị), TP.HCM (gần 48.000 thiết bị), Hải Phòng (gần 7.000), Đà Nẵng (hơn 4.500) và Thái Nguyên (hơn 2.700).
+
+Nguyên nhân của việc camera an ninh tại Việt Nam đang tồn tại nhiều lỗ hổng, dễ bị tấn công mạng nêu trên, theo cục phó trưởng Cục an toàn thông tin, là do thiết bị đã tồn tại sẵn lỗ hổng hay người sử dụng để nguyên mật khẩu mặc định ban đầu hoặc đặt mật khẩu dễ đoán. 
+
+Bên cạnh đó, nguyên nhân còn do năng lực về an toàn thông tin của nhà sản xuất; khả năng cập nhật vá lỗi hạn chế và những hạn chế về nhận thức an toàn thông tin của người sử dụng.

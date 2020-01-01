@@ -1,0 +1,17 @@
+Lỗi không kết nối dữ liệu di động của iOS bản 12.1.2
+
+TTO - Nhiều người dùng iPhone phản ánh tình trạng trục trặc trong kết nối dữ liệu di động sau khi nâng cấp lên phiên bản hệ điều hành iOS 12.1.2, phiên bản mới nhất.
+Cách chia sẻ mật khẩu Wi-Fi nhanh hơn với người dùng iOS
+7 mẹo cài đặt bảo mật cho iOS 12 bạn nên áp dụng ngay bây giờ
+
+Theo trang tin Mashable, nhiều người đã chia sẻ những phàn nàn về trục trặc liên quan tới phiên bản 12.1.2 của hệ điều hành iOS khiến họ không thể kết nối dữ liệu mạng di động.
+
+Theo dõi những phàn nàn trên mạng xã hội Twitter, trang Forbes nhận định những người dùng iPhone gặp trục trặc sau khi nâng cấp lên phiên bản iOS 12.1.2 hiện ở các khu vực như Bắc Mỹ, Nam Mỹ, châu Âu và châu Á. Tuy nhiên có vẻ như ở Mỹ bị ảnh hưởng nhiều hơn cả.
+
+Trên tài khoản Twitter hỗ trợ người dùng của Apple (@AppleSupport), nhiều người dùng cũng đã đặt câu hỏi yêu cầu hỗ trợ về vấn đề này. Hiện tại giải pháp được khuyến nghị là người dùng khởi động lại thiết bị và cập nhật những cài đặt của nhà mạng.
+
+Theo tạp chí Forbes, Apple tung ra phiên bản iOS mới nhất này nhằm khắc phục một trục trặc liên quan tới vấn đề kế nối mạng di động tại Thổ Nhĩ Kỳ cho các mẫu iPhone mới nhất gồm iPhone XR, iPhone XS và iPhone XS Max.
+
+Tuy nhiên phiên bản HĐH sửa lỗi này dường như lại đang khiến mọi việc tồi tệ hơn: người dùng trên toàn thế giới, đang sử dụng nhiều mẫu iPhone khác nhau, lại gặp trục trặc khi kết nối dữ liệu di động sau khi nâng cấp lên phiên bản cập nhật này.
+
+Trang Mashable khuyên người dùng tạm thời chưa nên tải về và cài đặt bản iOS phiên bản 12.1.2, chờ Apple khắc phục trục trặc này xong.

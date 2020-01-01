@@ -1,0 +1,29 @@
+Cách kiểm tra xem loa Echo đã ghi âm những gì của bạn
+
+TTO - Trước sự cố loa thông minh Echo tiết lộ dữ liệu người dùng mà Amazon đã xác nhận, nhiều người dùng được cảnh báo nên thận trọng kiểm soát những gì thiết bị này đang tự động ghi âm.
+Amazon xác nhận việc loa thông minh Echo rò rỉ thông tin
+Amazon, Google giảm giá loa thông minh cạnh tranh Apple
+Cách chọn loa thông minh cho ngôi nhà của bạn
+Cách kiểm tra xem loa Echo đã ghi âm những gì của bạn - Ảnh 1.
+Loa thông minh của Amazon - Ảnh: CNBC
+
+Theo đài CNBC, nếu bạn đang lo lắng không biết các thiết bị loa thông minh Amazon Echo đã ghi lại những gì trong nhà mình, bạn có thể sử dụng ứng dụng Alexa để kiểm tra điều này.
+
+Hãy mở ứng dụng Alexa trên smartphone của bạn.
+
+Chạm vào nút menu ở góc trên bên trái màn hình.
+
+Kéo xuống dưới và chọn "Settings".
+Kéo xuống dưới trang này và chọn vào "History".
+Bạn sẽ thấy một giao diện tương tự như trong hình sau:
+
+Cách kiểm tra xem loa Echo đã ghi âm những gì của bạn - Ảnh 2.
+Ảnh: CNBC
+
+Theo đó bạn có thể xem tất cả những lệnh trợ lý ảo Alexa đã nghe được. Chẳng hạn như lệnh tắt các đèn trong phòng khách, chơi nhạc cổ điển,….
+
+Khi bấm chọn vào một nội dung ghi âm, bạn có thể chọn lệnh xóa bỏ nó.
+
+Có thể bạn sẽ không thấy có "hành vi" ghi âm nào khả nghi trong danh sách này, tức là Alexa ghi âm ngoài ý muốn của bạn.
+
+Tuy nhiên có thể thấy, mỗi khi nghe thấy chữ "Alexa", thiết bị thông minh này sẽ lập tức ở tư thế sẵn sàng ghi âm các mệnh lệnh và những gì nó nghe được sau tiếng gọi này. Do đó hãy thực sự cẩn trọng trong quá trình sử dụng.

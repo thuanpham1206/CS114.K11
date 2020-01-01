@@ -1,0 +1,20 @@
+Ứng dụng giả mạo game Super Mario ăn cắp thông tin thẻ tín dụng
+
+TTO - Hàng tá các ứng dụng trên Android có chèn mã độc mang tên trò chơi nổi tiếng Hái nấm (Super Mario Run) có thể đánh cắp thông tin thẻ tín dụng vừa bị các chuyên gia của Trend Micro phát hiện ra.
+Ứng dụng giả mạo game Super Mario ăn cắp thông tin thẻ tín dụng
+Một số ứng dụng trên điện thoại ăn theo các game nổi tiếng có thể sẽ ăn cắp thông tin thẻ tín dụng
+Các chuyên gia tại bộ phận TrendLab của Trend Micro cho biết một số các ứng dụng ăn theo tên trò chơi nổi tiếng có thể sẽ đánh cắp thông tin thẻ tín dụng của người dùng di động do sự tin tưởng vào các trò chơi trên.
+
+Theo đó, phiên bản ăn cắp thông tin thẻ tín dụng mới nhất mà các chuyên gia tìm ra tên là Fobus (ANDROIDOS_FOBUS.OPSF). Đây là một ứng dụng mã độc trong một dãy dài những ứng dụng giả mạo các game di động như Pokemon hay Mario để lừa người chơi game tải về.
+
+Ứng dụng này có biểu tượng giống như trò chơi Hái nấm (game Super Mario) thật, nhưng thay vì nhận đượctrò chơi như mong muốn, người dùng tải các ứng dụng này từ các store lạ sẽ bị lấy trộm mất những thông tin như số điện thoại, thông tin liên lạc, địa điểm và tin nhắn SMS từ máy điện thoại của họ … và còn nhiều thông tin khác nữa
+
+Các chuyên gia tuyên bố: “Mục đích thực sự của ứng dụng này là đánh cắp thông tin thẻ tín dụng”
+
+Mỗi khi nhấn vào ứng dụng, Google Play được khởi chạy và một màn hình pop-up giả mạo sẽ được bật lên yêu cầu nhập vào thông tin thẻ tín dụng của người chơi. Sau đó, tiến trình diễn ra khá chính thống như hiện ra logo thẻ tín dụng lúc xác nhận số thẻ hợp lý.
+
+Tiếp theo sẽ có yêu cầu người chơi nhập vào tên chủ thẻ, ngày hết hạn thẻ và mã an toàn của thẻ. Tiếp sau đó yêu cầu thêm những thông tin cá nhân khác như ngày sinh, địa chỉ và số điện thoại. Khi tất cả dữ liệu được nhập vào thì người chơi mới được truy cập vào Google Play.
+
+Tuy nhiên, từ lúc này, những kẻ tấn công từ xa đã có được quyền điều khiển thiết bị và có thể cài đặt lại lại mã PIN của thiết bị bằng các câu lệnh từ C&C Server – sau đó có thể khóa không cho người dùng vào thiết bị. Cùng lúc đó, C&C server sẽ rút trộm dữ liệu thẻ tín dụng của người dùng.
+
+Theo các chuyên gia, giải pháp đểphòng ngừa là tránh tải và dùng ứng dụng từ các store lạ. TrendLab cực lực khuyên người dùng chỉ nên lấy các ứng dụng từ các store hợp pháp như Google Play hoặc các store đáng tin cậy.

@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+  <title>Text classification</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+</head>
+<body>
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="/">TClassifier</a>
+            </div>
+            <ul class="nav navbar-nav">
+                <li><a href="/#info">Model info</a></li>
+            </ul>
+        </div>
+    </nav>
+    <div class="classify-box card">
+        <form class="text-form" data-url="/results">
+            <div class="form-group">
+                <label for="comment">Your text:</label>
+                <textarea class="form-control" rows="10" name="content"></textarea>
+            </div>
+            <input type="submit" value="predict" class="btn btn-success">
+        </form>
+    
+        <div class="results">
+            <h4>prediction results</h4>
+            <p></p>
+        </div>
+    </div>
+
+    <div id = "info"class="info">
+        <div class='categories'>
+            <h4>all categories ({{info['categories']|length}})</h4>
+            {% for ct in info['categories'] %}
+                <span class='ct'>{{ct}}</span>
+            {% endfor %}
+        </div>
+        <ul class="list-group">
+            <li class="list-group-item">Project name: Text classification</li>
+            <li class="list-group-item">Algorithms: Stochastic Gradient Descent, SVM, ...</li>
+            <li class="list-group-item">Libs: Scikit learn, numpy, pandas, flask, matplotlib</li>
+            <li class="list-group-item">Training dataset size: {{info['trainsize']}}</li>
+            <li class="list-group-item">Test dataset size: {{info['testsize']}}</li>
+        </ul>
+        average probability
+        <ul class="list-group">
+            <li class="list-group-item">precision: {{info['precision']}}</li>
+            <li class="list-group-item">recall: {{info['recall']}}</li>
+            <li class="list-group-item">f1-score: {{info['fscore']}}</li>
+        </ul>
+        <span class='chart'>
+            <img style="display: inline" src="/static/images/PRchart.png">
+            <img src="/static/images/common.png">
+        </span>
+    </div>
+
+<style>
+    img {
+        width: 600px;
+    }
+    .list-group-item {
+        font-family: monospace;
+    }
+    .list-group {
+        max-width: 600px; 
+    }
+    .classify-box {
+        position: absolute;
+        top: 20%;
+        left: 20%;
+    }
+
+    .ct {
+        padding: 8px;
+        margin: 4px;
+        background-color:rgb(207, 207, 207);
+        border-radius: 5px;
+    }
+
+    div.info {
+        position: absolute;
+        left: 10%;
+        top: 100%;
+    }
+    .results h4 {
+        font-family: 'Courier New', Courier, monospace;
+        color: rgb(60, 124, 1);
+    }
+ 
+    form {
+        position: relative;
+        width: 700px;
+    }
+
+    .results {
+        position: relative;
+        left: 30%;
+        display: none;
+    }
+
+    input[type="file"] {
+    display: none;
+    }
+
+    .custom-file-upload {
+        border: 1px solid rgb(160, 160, 160);
+        display: inline-block;
+        padding: 6px 12px;
+        cursor: pointer;
+    }
+
+    .categories {
+        margin-bottom: 20px;
+    }
+
+</style>
+
+<script type="text/javascript">
+$("document").ready(function() {
+    $(".text-form").submit((e) => {
+        e.preventDefault()
+        let data = $(this).serialize()
+        let content = $(this).find('textarea').val()
+        $.ajax({
+          url: "/results",
+          method : "POST",
+          data : {content: content},
+          success : function(data){
+              console.log(data);
+            let res = data['res'].join(",")
+            console.log($("div.results").html());
+            $("div.results").show()
+            $("div.results p").text(res)
+          },
+          error: function(error){
+            return 1;
+          }
+        });
+    })
+})
+
+</script>
+</body>
+</html>

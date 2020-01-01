@@ -1,0 +1,16 @@
+VNcert đào tạo phân tích mã độc
+
+TTO - Trung tâm ứng cứu khẩn cấp máy tính Việt Nam (VNcert) đang tổ chức các khóa đào tạo phân tích mã độc từ cơ bản đến nâng cao dành cho các cán bộ kỹ thuật an toàn mạng.
+​36,5 triệu điện thoại Android nhiễm mã độc Judy
+Mã độc WannaCry do người Trung Quốc viết?
+​Xuất hiện mã độc nguy hiểm gấp bội WannaCry
+
+Đối tượng đào tạo là các cán bộ kỹ thuật thuộc các cơ quan, tổ chức là thành viên mạng lưới ứng cứu sự cố an toàn thông tin mạng quốc gia và đào tạo chuyên gia an toàn thông tin của các nước đối tác.
+
+Nội dung đào tạo là các kỹ năng phân tích mã độc chuyên sâu, thực hành thực tiễn các kỹ thuật phân tích mã độc trong JavaScript, các kỹ thuật thu thập và phân tích bộ nhớ máy tính (RAM, HDD và thẻ nhớ), kỹ thuật phân tích mã độc Surface Analysis, Runtime Analysis, Static Analysis và một số hệ thống giám sát và phân tích mã độc tự động…
+
+Khóa đầu tiên đã tạo điều kiện cho hơn 30 cán bộ kỹ thuật có khả năng chủ động ứng phó với các cuộc tấn công sử dụng mã độc có chủ đích.
+
+Theo ghi nhận của VNcert, tại Việt Nam đã có khoảng hơn 13.000 trang web bị hack trong năm 2016. Trong nửa đầu năm 2017 (tính đến ngày 15-5-2017) có khoảng hơn 5.345 trang web bị hack.
+
+Trước tình hình này, VNcert dự kiến sẽ tiếp tục tổ chức nhiều khóa đào tạo khác từ cơ bản đến nâng cao để tiếp tục trang bị kỹ năng, kiến thức về phân tích mã độc cho các cán bộ kỹ thuật trong và ngoài nước và đáp ứng nhu cầu của các thành viên mạng lưới ứng cứu sự cố an toàn thông tin mạng quốc gia.

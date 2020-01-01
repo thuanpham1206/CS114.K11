@@ -1,0 +1,22 @@
+Ứng dụng tìm đường thuận tiện cho người giao hàng
+
+TTO - Dựa trên bản đồ Google, nhóm sinh viên năm ba trường ĐH Công nghệ thông tin - ĐHQG TP.HCM đã viết lại thuật toán tìm đường cho nhiều địa điểm với lộ trình ngắn nhất thuận tiện cho người giao hàng (shipper).
+
+
+Hoàng Kim Tuấn và Trần Thị Minh Trang mất khoảng hai tuần để tạo ra SmartGoing - Ảnh HUỆ LÂM
+Xem thêm video khác trên TVO
+Ứng dụng Smart Going do sinh viên Trần Thị Minh Trang, Hoàng Kim Tuấn, Nguyễn Minh Hiếu (khoa Công nghệ phần mềm) thực hiện trong hai tuần, cho phép người dùng nhập tay hàng loạt địa chỉ cần đến hoặc bằng giọng nói.
+
+Ứng dụng tự động sắp xếp và trả lại lộ trình hợp lý nhất kèm theo tổng độ dài quãng đường, cách đi chi tiết. Nhờ vậy người dùng tiết kiệm thời gian, chi phí đi lại, đặc biệt là nhóm tài xế hoặc nhân viên giao hàng. Lộ trình quen thuộc được lưu lại thành lịch sử cho lần đi sau.
+
+Bất tiện của Google Map hiện tại là chỉ cung cấp hai địa điểm đi và đến, không thể mở rộng lộ trình qua 7 - 8 địa điểm, nếu muốn phải thao tác thủ công nhiều lần, đó là chưa kể khi người dùng muốn được gợi ý lộ trình ngắn nhất.
+
+Tận dụng các gói API (giao diện lập trình ứng dụng) có sẵn của Google như Google Map và Google Voice, nhóm sinh viên cung cấp thuật toán mới để phần mềm giải quyết nhu cầu phát sinh.
+
+
+ Lộ trình qua bốn địa điểm được nhập dễ dàng bằng giọng nói
+“So với giới lập trình, viết thuật toán như trên là thao tác đơn giản nhưng nhóm đã phát hiện nhu cầu có thực của người dùng trong khi Google chưa có. Chúng tôi bất ngờ và vui vì thấy trong số nhiều ý tưởng gửi về có điều gì đó khác biệt và ý nghĩa” - ông Nguyễn Văn Toàn trưởng phòng Công tác sinh viên (ĐH CNTT) đánh giá về ứng dụng.
+
+Đạt giải nhất cuộc Ý tưởng sáng tạo khả thi do trường tổ chức, nhóm tiếp tục phát triển ứng dụng dành riêng cho shipper với chức năng tìm khách hàng, nhận đơn hàng, giá tiền, biết ngay lộ trình thuận tiện dựa trên địa chỉ có sẵn hàng hóa.
+
+Nhóm mong muốn tích hợp bản đồ offline vào ứng dụng này để shipper sử dụng mọi lúc, không lệ thuộc 3G hay bản đồ online.

@@ -1,0 +1,15 @@
+Hầu hết người Mỹ không thể phân biệt chatbot và người thật
+
+TTO – Trong cuộc nghiên cứu do Pew Research Center thực hiện, chỉ 47% người Mỹ tham gia tự tin rằng họ có thể xác định chatbot mạng xã hội và người thật.
+
+Theo TheVerge, sau khi khảo sát qua 4500 người trưởng thành tại Mỹ, Pew Research Center kết luận hầu hết họ thật sự không biết rõ về chatbot. Chatbot hiểu nôm na là một chương trình máy tính tương tác với người dùng bằng ngôn ngữ đơn giản nhưng tự nhiên như người thật.
+
+Hai phần ba người Mỹ đã ít nhất một lần từng nghe về chatbot mạng xã hội, nhưng chỉ 16% trong số đó biết nhiều thông tin hơn về chatbot, và 34% khác nói họ chưa bao giờ biết về chatbot trước đây. Những người có hiểu biết thường ở độ tuổi trẻ, và số lượng nam chiếm nhiều hơn nữa (hơn 22%).
+
+Nhưng vì chưa thể xác thực tính chính xác từ câu trả lời, vẫn có khả năng người tham gia tự đánh giá cao hoặc đánh giá thấp kiến thức của họ về chatbot.
+
+Trong số những cá nhân đã từng nghe về chatbot, 80% số họ cho rằng chúng được tạo ra cho mục đích xấu. Dù trẻ hay lớn tuổi, họ đều nghĩ chatbot là không tốt. Khi họ càng biết nhiều về chatbot mạng xã hội, họ càng ít tỏ ra ủng hộ khi bot được sử dụng cho nhiều mục đích khác nhau, như thu hút sự chú ý hoặc quảng bá, ủng hộ bầu cử và chính trị.
+
+Nói tóm lại, nghiên cứu gợi ý rằng hầu hết công dân Mỹ vẫn chưa thể phân biệt chatbot với người thật. 
+
+Mặt khác, các nhà nghiên cứu cũng đang tạo ra các công cụ hỗ trợ việc này. Gần đây nhất là một thuật toán được đề xuất bởi nhóm nghiên cứu tại MIT Sloan, giúp phân biệt chatbot dựa vào cách chúng tương tác với tài khoản mạng xã hội khác: nếu như một tài khoản liên tục tích cực trò chuyện, trong khi số khác thì không hề tương tác lại, thì tài khoản kia có thể là chatbot.

@@ -1,0 +1,26 @@
+Cách ngăn chặn iPhone theo dõi bạn
+
+TTO - Không cần tới sự “giúp đỡ” của các ứng dụng kiểu như Facebook, bản thân tính năng có sẵn trên một chiếc iPhone cũng đã đủ để theo dõi bạn “sát sạt” rồi.
+Amazon giờ đã có quá nhiều cách ‘theo dõi’ bạn
+Làm sao để ngăn chặn người khác bí mật theo dõi bạn qua webcam?
+Facebook đang theo dõi bạn trên 8,4 triệu trang web
+Cách ngăn chặn iPhone theo dõi bạn - Ảnh 1.
+Ảnh: DREAMSTIME
+
+Theo trang Komando, riêng trong vấn đề định vị, chiếc iPhone luôn biết rõ bạn khi nào bạn rời công sở và bạn sẽ về nhà theo hướng nào. Đây không chỉ là một phần của dịch vụ định vị, nó còn là một tính năng độc lập khác có tên "Significant Locations".
+
+Để tắt tính năng này, bạn hãy vào phần cài đặt, chọn Privacy, tìm và chạm vào "System Services". Trượt xuống phía dưới cho tới khi nhìn thấy phần "Significant Locations" và chọn vào đó.
+
+Tại đây, điện thoại sẽ yêu cầu bạn đăng nhập vào điện thoại. Sau khi đăng nhập, bạn sẽ thấy một danh sách những nơi điện thoại "biết" bạn đã từng ở đó.
+
+Bạn có thể chỉnh sửa các địa điểm này để chúng không còn lưu trong điện thoại nữa. Để làm vậy, hãy chạm vào tên địa danh đó, trong màn hình hiện ra tiếp theo, chạm vào nút "Edit" ở góc phải phía trên màn hình.
+
+Theo đó có một vòng tròn đỏ hiện bên cạnh địa danh. Bạn có thể chạm vào và loại bỏ nó.
+
+Theo Apple, iPhone được trang bị tính năng này để nó thể biết đâu là những địa điểm quan trọng với người dùng. Theo đó có thể cung cấp những dịch vụ cá nhân hóa như gợi ý lộ trình di chuyển và cải thiện tính năng Photos Memories.
+
+Dù vậy tính năng đó cũng sẽ gây ra những lo ngại nhất định về quyền riêng tư và những hệ lụy có thể có liên quan.
+
+Song Apple khẳng định dữ liệu liên quan tới tính năng này chỉ được đồng bộ giữa những thiết bị có kết nối đám mây của bạn và dữ liệu cũng đã được mã hóa.
+
+Trừ khi ai đó lấy trộm điện thoại và biết được mật khẩu của bạn, còn không thì không ai có thể truy cập vào dữ liệu đó.

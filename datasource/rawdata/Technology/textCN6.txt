@@ -1,0 +1,21 @@
+iOS 12 cho phép đăng ký thêm người khác dùng Face ID
+
+TTO - Tính năng cập nhật rất hữu dụng này cho iOS 12 hóa ra lại không được nhắc tới trong báo cáo chủ chốt tại sự kiện WWDC năm nay của Apple.
+
+Tuy nhiên theo phát hiện riêng của trang tin 9to5Mac, iOS 12 sẽ cho phép người dùng đăng ký thêm 2 gương mặt khác nữa để được sử dụng tính năng nhận diện Face ID trên iPhone X.
+
+Cho tới nay Face ID chỉ mới cho phép duy nhất một khuôn mặt được đăng ký làm khóa bảo mật trên iPhone X. Tuy nhiên trang 9to5Mac đã lần đầu phát hiện sự thay đổi quy tắc này khi "cày xới" qua phiên bản iOS 12 beta.
+
+Theo đó họ nhận thấy có những phần cài đặt mới cho FaceID cho phép người dùng có thể "Thiết lập một nhận diện thay thế khác".
+
+Phần mô tả về tính năng mới này cho biết: "Cùng với việc tiếp tục nhận ra gương mặt của bạn, Face ID cũng có thể nhận diện một gương mặt khác nữa".
+
+Trang 9to5Mac đã thử nghiệm và xác nhận iOS 12 đúng là có sự cập nhật tính năng mới này cho Face ID.
+
+Theo đó, những người dùng lựa chọn đăng ký 2 gương mặt với Face ID sẽ không thể loại bỏ gương mặt thêm vào này nếu không bắt đầu lại từ đầu bằng chính quá trình đăng ký với Face ID của họ.
+
+Nói cách khác, nếu muốn cài lại chế độ nhận diện mới của Face ID với nhiều khuôn mặt hơn, bạn cũng sẽ phải xóa sạch toàn bộ những dữ liệu về khuôn mặt đã có của mình.
+
+Bất kể quy trình thiết lập có hơi phức tạp hơn một chút, song việc có thể bổ sung thêm một gương mặt nữa vào tính năng bảo mật Face ID sẽ giúp iPhone X trở thành thiết bị được chia sẻ dễ dàng hơn giữa những người trong gia đình như vợ chồng, cha mẹ và con cái.
+
+Điều này cũng hé lộ khả năng tính năng Face ID cập nhật sẽ được dành cho thế hệ iPad tiếp theo vì thiết bị này vốn có xu hướng được dùng chung nhiều hơn so với điện thoại.

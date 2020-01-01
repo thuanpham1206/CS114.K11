@@ -1,0 +1,55 @@
+7 mẹo cài đặt bảo mật cho iOS 12 bạn nên áp dụng ngay bây giờ
+
+TTO - Được biết, iOS 12 sẽ thắt chặt các vấn đề bảo mật và quyền riêng tư trên iPhone cao hơn so với các phiên bản trước đây. Để tận dụng tối đa các bản cập nhật, bạn có thể phải tinh chỉnh các cài đặt sau.
+
+1. Mật mã có tính bảo mật hơn
+
+Apple đã thay đổi màn hình khóa mặc định từ mã gồm 4 chữ số thành mã gồm 6 chữ số. Mật khẩu thiết bị của bạn càng dài thì sẽ càng khó hack hơn.
+
+Hacker thường sử dụng phần mềm xoay vòng, được gọi là tấn công brute-force, để kết hợp các chữ số thành mật mã. Nếu như mật mã gồm 4 chữ số như trước thì chỉ có 10.000 kết quả có thể xảy ra, điều này sẽ giúp hacker không mất nhiều thời gian để đột nhập thiết bị của bạn.
+
+Để thay đổi mật mã, bạn vào Settings, chọn Touch ID & Passcode và nhập mật mã hiện tại. Sau đó, bạn vào Change Passcode, chọn from the Passcode Options và thiết lập Custom Numeric Code, miễn là đừng đặt mật mã có tính bảo mật kém như 111111 hoặc 123456 là được.
+
+2. Xác thực hai yếu tố tự động
+
+Chế độ xác thực hai yếu tố mới sẽ bổ sung thêm một lớp bảo mật cho tất cả thông tin đăng nhập của bạn. Sau khi bạn đăng nhập vào ứng dụng hoặc trang web có bật hai yếu tố, bạn sẽ nhận được tin nhắn văn bản tới số điện thoại của mình cùng với mã xác minh, đảm bảo bạn là người duy nhất có thể truy cập vào tài khoản.
+
+Đặc biệt, Apple còn cập nhật tính năng tự động điền các mã cho bạn, vì vậy bạn thậm chí không phải nhập chúng mà vẫn có thể dễ dàng xác minh.
+
+Để kích hoạt, bạn vào Settings, chọn Password & Security, bấm vào Turn on Two-Factor Authentication. Khi bạn thực hiện đến đó, điện thoại sẽ tự hướng dẫn bạn qua các phần còn lại của quá trình thiết lập.
+
+3. Chế độ hạn chế USB xâm nhập
+
+Một trong những thay đổi quan trọng nhất về bảo mật trong iOS 12 là Apple đã làm cho những kẻ trộm iPhone hoặc đánh cắp thông tin về bạn sẽ phải khó khăn hơn để đạt được mục đích.
+
+Khi bạn cắm điện thoại vào thiết bị USB, điện thoại có thể thực hiện hai việc: sạc pin và truyền dữ liệu. Trước đây, khi bạn kết nối điện thoại với máy tính, nó sẽ yêu cầu xác minh để giữ an toàn, nhưng thực chất hacker vẫn có những công cụ để khai thác quá trình đó.
+
+Trước đây, sau 7 ngày mà không được mở khóa, iOS 11 sẽ khóa cổng sạc để ngăn chặn bất kỳ nỗ lực nào vi phạm an ninh. Giờ đây, iOS 12 sẽ rút ngắn thời gian đó, khóa cổng sạc của iPhone thành chế độ nguồn chỉ sau một giờ sau khi bạn mở khóa nó lần cuối.
+
+Để thiết lập, bạn vào Settings, chọn Face ID (hoặc Touch ID) & Passcode, kéo xuống cuối danh sách. Bạn sẽ thấy nút bật tắt USB Accessories và chọn nút tắt (màu xám, không phải màu xanh lá). Bước đơn giản này sẽ ngăn không cho bất kỳ thiết bị USB nào xâm nhập vào điện thoại của bạn sau một giờ bị khóa.
+
+4. Bật tắt theo dõi vị trí
+
+iPhone của bạn sẽ theo dõi mọi nơi bạn đi để có thể tạo các tính năng dựa trên vị trí trong các ứng dụng như Maps, Photos và Siri hoạt động trơn tru. Mặc dù điện thoại sẽ mã hóa thông tin để không ai có thể nhìn thấy vị trí nhưng không ít người cảm giác như mình đang bị theo dõi khi hiển thị vị trí.
+
+Bạn có thể tắt hoặc xóa các vị trí đã lưu của mình bất kỳ lúc nào bằng cách vào Settings, chọn Privacy, chọn Location, chọn System Services và bấm vào Significant Locations để thực hiện tính năng này.
+
+5. Khuyến khích sử dụng Safari
+
+Có khoảng một triệu trình duyệt web trong App Store, nhưng trình duyệt Safari luôn tích hợp sẵn các tính năng mới trong iOS 12 để giúp cho thói quen duyệt web của bạn riêng tư hơn.
+
+Safari hiện bảo vệ chống lại các cookie theo dõi bạn trên Internet, giúp bạn tránh bị theo dõi từ trang này đến trang khác, sẽ không tiết lộ thói quen duyệt web của bạn cho các công ty đang cố gắng tìm hiểu hành vi người dùng, thậm chí che giấu danh tính điện thoại để bạn không vị dính vào các quảng cáo được nhắm mục tiêu.
+
+6. Quản lý mật khẩu không bị trùng nhau
+
+Sử dụng Safari trong iOS 12 sẽ giúp bạn bảo mật hơn, nhưng việc đặt mật khẩu trùng nhau cho nhiều trang web hoặc ứng dụng vẫn khiến bạn dễ bị hack.
+
+Để quản lý mật khẩu, bạn vào Settings, chọn Passwords & Accounts, chọn Website & App Passwords và bạn sẽ thấy danh sách tất cả mật khẩu mà iOS biết bạn sử dụng.
+
+Không chỉ liệt kê, danh sách này sẽ cho bạn biết bạn đã dùng cùng một mật khẩu cho nhiều ứng dụng hay trang web hay chưa. Nếu thông báo trùng lặp, bạn sẽ thấy một biểu tượng cảnh báo nhỏ bên cạnh URL hoặc tên ứng dụng. Khi đó, bạn chỉ cần bấm Change Password trên nút trang web và thay đổi.
+
+7. Bật tự động cập nhật
+
+Bạn nên nhớ giữ điện thoại ở chế độ tự động cập nhật. Khi ở chế độ này, bạn sẽ nhận được các bản vá phần mềm hay ứng dụng ngay khi chúng được phát hành.
+
+Để bật tự động cập nhật, bạn vào Settings, chọn General, chọn Software Update và nhấn nút bật.

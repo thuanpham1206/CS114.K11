@@ -1,0 +1,25 @@
+Cảnh giác với ứng dụng lợi dụng Touch ID trong App Store
+
+TTO - Trang công nghệ Wired vừa cảnh báo tình trạng nhiều ứng dụng gian xảo lợi dụng sự mất cảnh giác của người dùng chiếm dụng dấu vân tay để trục lợi bất chính.
+Ổ khóa vân tay chỉ mất 10 giây để hack
+Nokia 9 có cảm biến vân tay chìm và rãnh nhỏ như iPhone X?
+Cảnh giác với ứng dụng lợi dụng Touch ID trong App Store - Ảnh 1.
+Kho ứng dụng đa dạng trên smartphone khiến người dùng dễ mất cảnh giác - Ảnh: REUTERS
+
+Ai cũng biết một trong những điểm thuận tiện lớn của tính năng Touch ID là giúp người dùng mở khóa điện thoại iPhone hay phê duyệt một lệnh mua sắm trên điện thoại nhanh chóng.
+
+Tuy nhiên gần đây đã xuất hiện nhiều ứng dụng lừa đảo lợi dụng tính năng thuận tiện này để trục lợi từ những người vô tình tải chúng về máy từ gian hàng ứng dụng App Store.
+
+Trong một số trường hợp đã được ghi nhận, các ứng dụng tự quảng bá là những "trợ lý" chăm sóc sức khỏe đã mời người dùng sử dụng tính năng Touch ID để được xem thông tin theo dõi lượng tiêu hao calorie, sử dụng công cụ đo nhịp tim... nghe qua rất hợp lý.
+
+Nhưng một khi người dùng đã quét dấu vân tay, các ứng dụng đó lập tức hiện ra một thông báo dạng pop-up mua sắm, với mức phí khoảng 90-120 USD và đồng thời làm mờ xám màn hình để người dùng không phát hiện tình huống nhập nhèm này.
+
+Trong một số trường hợp, ngay cả khi bạn từ chối sử dụng tính năng Touch ID để kích hoạt tính năng của ứng dụng, chúng vẫn sẽ yêu cầu người dùng tiếp tục thao tác chạm với chiêu thức lừa đảo thanh toán tương tự.
+
+Điều đáng lưu ý là những ứng dụng lừa đảo này thường có những tên gọi khá "vô hại", kiểu như "Heart Rate Monitor", "Fitness Balance app" và "Calories Tracker app".
+
+Hiện chưa rõ các ứng dụng này đến từ các nhà phát triển độc lập hay từ một ai đó vận hành nhiều tài khoản phát triển khác nhau.
+
+Từ lâu tính năng bảo mật bằng vân tay (Touch ID) đã được sử dụng trong nhiều mục đích khác, không chỉ là mở khóa iPhone. Chẳng hạn người dùng sẽ dùng Touch ID trong công cụ thanh toán Apple Pay và dùng để xác thực trong nhiều ứng dụng khác nhau.
+
+Và vì tính chất tiện dụng "quá nhanh, quá nguy hiểm" của Touch ID nên giới chuyên gia bảo mật khuyến cáo người dùng nên thận trọng suy xét hơn trước khi đặt ngón tay lên phê chuẩn một yêu cầu để tránh những rủi ro đáng tiếc.

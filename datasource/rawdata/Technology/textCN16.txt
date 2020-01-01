@@ -1,0 +1,41 @@
+​Xuất hiện mã độc nguy hiểm gấp bội WannaCry
+
+TTO - Các nhà nghiên cứu bảo mật vừa phát hiện một loại mã độc mới nguy hiểm hơn WannaCry bội phần. Mã độc này sử dụng đến 7 công cụ tấn công bị tiết lộ của NSA chứ không chỉ 2 như của WannaCry.
+
+Theo thông tin mới nhất từ trang tin công nghệ The Hacker News, các nhà nghiên cứu bảo mật vừa phát hiện một loại mã độc mới nguy hiểm hơn WannaCry bội phần. Cụ thể, mã độc này sử dụng đến 7 công cụ tấn công bị tiết lộ của NSA chứ không chỉ 2 như của WannaCry. Do đó, các chuyên gia dự báo nguy cơ tấn công mạng trên diện rộng thời gian tới sẽ tiếp diễn với quy mô rộng hơn và “ác chiến” hơn.
+
+Nguy hiểm gấp bội WannaCry
+
+Mã độc mới có tên là EternalRocks, thuộc họ sâu máy tính. Trong khi WannaCry chỉ sử dụng hai công cụ là EternalBlue và DoublePulsar thì EternalRocks sử dụng đến 7 công cụ gồm: EternalBlue, EternalRomance, EternalChampion, EternalSynergy, SMBTouch, ArchTouch và DoublePulsar.
+
+Sự nguy hiểm của EternalRocks nằm ở chỗ nó cải trang thành WannaCry để lừa các nhà nghiên cứu bảo mật, nhưng thay vì phát tán ransomware (mã độc tống tiền), nó lại âm thầm kiểm soát máy tính bị lây nhiễm để khởi động các cuộc tấn công mạng trong tương lai. Do đó, trang The Hacker News đã đưa ra một dự báo khá tệ hại: “bạn sẽ rất khó có thể tự bảo vệ được mình trước các cuộc tấn công mạng trong tương lai”.
+
+Việc bị cài đặt phần mềm gián điệp để tấn công có chủ đích sẽ nguy hiểm hơn nhiều, thậm chí tiềm ẩn nguy cơ đối với an ninh quốc gia.
+Ông Vũ Ngọc Sơn, Phó chủ tịch phụ trách mảng chống mã độc (Anti Malware) của Bkav
+Trong khi đó, theo khảo sát của Công ty an ninh mạng Bkav, với 52% máy tính tại Việt Nam, tức là khoảng 4 triệu máy chưa được vá lỗ hổng EternalBlue, các máy này có thể bị nhiễm WannaCry bất cứ lúc nào nếu hacker mở rộng việc tấn công. Đó mứoi chỉ là WannaCry chứ chưa phải là EternalRocks.
+
+Bên cạnh đó, ông Vũ Ngọc Sơn, Phó chủ tịch phụ trách mảng chống mã độc (Anti Malware) của Bkav cho biết: “Chúng ta không nên quên Cơ quan an ninh Mỹ NSA được cho là đã sử dụng lỗ hổng này để do thám. Do đó, không loại trừ khả năng cơ quan gián điệp của một quốc gia khác cũng âm thầm khai thác lỗ hổng này, cài đặt phần mềm gián điệp nằm vùng để thực hiện các cuộc tấn công có chủ đích APT”.
+
+Với 4 triệu máy tính có lỗ hổng tại Việt Nam, việc bị cài đặt phần mềm gián điệp để tấn công có chủ đích sẽ nguy hiểm hơn nhiều, thậm chí tiềm ẩn nguy cơ đối với an ninh quốc gia. Nguy cơ này không thể nhận biết rõ như mã độc mã hóa tống tiền. “Việt Nam cần ngay lập tức có chiến dịch vá lỗ hổng này”, ông Vũ Ngọc Sơn nhấn mạnh.
+
+Vẫn lơ là bảo mật
+
+Các cuộc tấn công có chủ đích kể từ sau vụ Vietnamairlines (giữa cuối năm 2016) đã cho chúng ta thấy được hệ thống mạng lỏng lẻo thế nào trước những chiêu thức ngày càng tinh vi của kẻ tấn công. Trong vụ WannaCry, khi mã độc này phát tán trên diện rộng và đã có nạn nhân tại Việt Nam, nhiều người dùng, công ty, tổ chức trong nước đã náo loạn lo ngại cho hệ thống mạng của mình.
+
+Trang bị cho có
+
+Theo bà Võ Vương Tú Diễm, đại diện hãng bảo mật Kaspersky Lab tại Việt Nam: “Các doanh nghiệp vừa và nhỏ tại Việt Nam hiện rất đông đảo nhưng lại ít quan tâm và đầu tư cho bảo mật do vấn đề ngân sách hoặc chưa đánh giá đúng mức mối nguy hiểm. Họ có thể chấp nhận sử dụng các giải pháp không phù hợp với quy mô và hoạt động vì vấn đề chi phí mà bỏ qua các lợi ích đề phòng lớn hơn. Nói cách khác, tâm lý chung vẫn là trang bị cho yên tâm, mặc dù không tin là mình hoàn toàn có thể trở thành nạn nhân rất sớm”.
+
+Theo ghi nhận của chúng tôi, bộ phận công nghệ thông tin của nhiều công ty đã phải hoạt động hết công suất để rà soát kiểm tra hệ thống máy tính nội bộ. Các doanh nghiệp, lĩnh vực tài chính, thương mại, thanh toán điện tử thường là nơi dễ trở thành mục tiêu trọng điểm của các cuộc tấn công mạng. Thế nhưng thực tế lại có nhiều doanh nghiệp không hề biết mã độc đã “nằm vùng” trong hệ thống của mình từ rất lâu.
+
+“Chúng tôi cũng đã từng phát hiện ra phần mềm gián điệp "nằm vùng" hơn 1,5 năm trong hệ thống của một doanh nghiệp trong lĩnh vực này mà toàn bộ hệ thống an ninh không hề hay biết”, ông Nguyễn Minh Đức, giám đốc hệ thống an ninh mạng thông minh Cyradar, tiết lộ.
+
+Theo ông Đức, “Một phần nguyên nhân là hệ thống lỏng lẻo chưa đủ tốt để phát hiện và ngăn chặn các tấn công, nhưng một phần cũng phải lưu ý một thực tế là kẻ tấn công hiện nay tinh vi hơn rất nhiều so hầu hết đội ngũ bảo vệ mạng tại các tổ chức”.
+
+Qua trao đổi với nhiều công ty an ninh mạng, chúng tôi được biết họ thường xuyên gửi các thông tin cảnh báo đến tổ chức, doanh nghiệp thông qua nhiều hình thức khác nhau, nhưng hầu hết người nhận đều không coi trọng cảnh báo. Ngay cả một số tổng công ty lớn dù đã được công ty bảo mật liên hệ và chỉ rõ những lỗ hổng, nguy cơ mất dữ liệu đến tận ban lãnh đạo… nhưng 1-2 tháng sau kiểm tra lại, các lỗ hổng này vẫn còn tồn tại, nguy cơ mất dữ liệu vẫn còn đó.
+
+Về tổng thể, ông Võ Đỗ Thắng, giám đốc Trung tâm đào tạo và an ninh mạng Athena, cho rằng: “Công tác phòng thủ của hệ thống mạng doanh nghiệp, tổ chức Việt Nam hiện nay còn rất yếu. Các lãnh đạo cũng chưa xem trọng công tác bảo mật dữ liệu, chưa có những đầu tư phù hợp.
+
+Nhiều tổ chức doanh nghiệp xem bộ phận công nghệ thông tin là bộ phận sai vặt, làm đủ thứ, nên không thể nào đủ nguồn lực chống đỡ hay phòng thủ khi có sự cố xảy ra. Chỉ đến khi có khủng hoảng thì lãnh đạo doanh nghiệp, tổ chức mới quan tâm. Như vậy là quá muộn. Một vấn đề nữa là lãnh đạo doanh nghiệp, tổ chức hầu như không có hoặc có rất ít kiến thức về an toàn thông tin, nên cũng không biết sẽ chỉ đạo thế nào cho phù hợp”.
+
+ 
